@@ -12,8 +12,21 @@ body {
     font-size: 25px;
     line-height: 30px;
   }
-
 }
+
+
+.content-spot .forcedBigger {
+  width: 65%;
+  float: left;
+  height: 100%;
+}
+
+.content-spot .forcedSmaller {
+  width: 35%;
+  float: left;
+  height: 100%;
+}
+
 
 .flex-container {
     display: -webkit-flex;
@@ -523,10 +536,11 @@ h1.mag_title span {
 }
 
 .fluidGrid {
-      width: 70%;
+    text-align: center;
+    width: 70%;
     display: block;
     margin: 0 auto;
-    padding-bottom: 50px;
+    padding-top: 10%;
 }
 
 
@@ -1003,9 +1017,6 @@ img.Victoria_image5 {
   max-width: 150px;
 }
 
-.flex-container.stacked {
-    display: block;
-}
 
 img.plus {
   display: block;
@@ -1316,124 +1327,6 @@ span.fur6 {
 p.check {
   line-height: 14px;
 }
-
-/*img.check {
-  padding: 10px;
-}*/
-
-/*
-img.check.one, img.check.three, img.check.five, img.check.seven, img.check.ten, img.check.eleven {
-  padding-left: 100px;
-}
-
-span.check {
-    position: absolute;
-}
-
-span.check.one {
-    left: 10px;
-    z-index: 1000;
-    top: 200px;
-}
-
-span.check.two {
-    right: 700px;
-    z-index: 1000;
-    top: 400px;
-}
-
-span.check.three {
-    right: 500px;
-    z-index: 1000;
-    top: 400px;
-}
-
-span.check.four {
-    right: 330px;
-    z-index: 1000;
-    top: 400px;
-}
-
-span.check.five {
-    top: 900px;
-}
-
-span.check.six, span.check.seven {
-    right: 200px;
-    text-align: center;
-}
-span.check.six {
-    top: 700px;
-}
-span.check.seven {
-    top: 800px;
-}
-
-span.check.eight, span.check.nine {
-    left: 600px;
-    text-align: center;
-}
-span.check.eight {
-    top: 1200px;
-}
-span.check.nine {
-    top: 1300px;
-}
-
-span.check.ten {
-    right: 250px;
-    top: 1100px;
-    text-align: center;
-}
-
-span.check.eleven, span.check.thirteen {
-    top: 1600px;
-    text-align: center;
-}
-
-span.check.twelve {
-    top: 1900px;
-    text-align: center;
-    left: 450px;
-    padding: 10px;
-    background-color: rgba(255, 255, 255, 0.5);
-}
-
-span.check.thirteen {
-    text-align: center;
-    right: 150px;
-}
-
-span.check.fourteen {
-    top: 1800px;
-    right: 150px;
-}
-
-span.check.fifteen {
-    top: 2200px;
-    text-align: center;
-}
-
-span.check.sixteen {
-top: 3050px;
-    left: 200px;
-    text-align: center;
-}
-
-span.check.seventeen {
-    right: 300px;
-    top: 2300px;
-    text-align: center;
-}
-
-span.check.eighteen {
-    top: 2600px;
-    right: 700px;
-    text-align: center;
-}
-*/
-
-/*end check feature */
 
 /*details*/
 
@@ -1872,6 +1765,9 @@ img.plus {
   margin: 0 auto;
   width: 80px;
 }
+.text-block.square.col-6.mob-col-12.flex-container.stacked {
+    display: block;
+}
 
 .content.fixed-width.morePadding.flex-container {
     justify-content: center;
@@ -1999,6 +1895,12 @@ p.info_about {
 /*******************************************************************/
 
 @media only screen and (max-width: 768px) {
+
+
+.content-spot .forcedBigger, .content-spot .forcedSmaller {
+  width: 100%;
+}
+
 
 .col-12.tab-col-12.mob-col-12.owl-carousel-1.hero.owl-carousel.owl-theme .owl-wrapper-outer  {
   max-height: none;
@@ -2196,13 +2098,10 @@ li.padded {
 /*end the wool*/
 
 /*patti smith*/
-  .content.fixed-width.morePadding.flex-container {
-      flex-direction:column;
+  .content.fixed-width.morePadding.flex-container,  .content.fixed-width.morePadding.flex-container.reverse {
+      display: block;
   }
 
-  .content.fixed-width.morePadding.flex-container.reverse {
-      flex-direction:column-reverse;
-  }
 
   .content-spot.template-text-block .text-block.morePadding.Victoria {
     padding: 0 20px 20px;
@@ -2212,6 +2111,9 @@ li.padded {
     padding: 10px 20px 50px;
     box-sizing: border-box;
     }
+
+
+
 /*end patti smith*/
 
 /*details*/

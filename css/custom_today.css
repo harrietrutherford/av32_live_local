@@ -2098,13 +2098,13 @@ li.padded {
 /*end the wool*/
 
 /*patti smith*/
-  .content.fixed-width.morePadding.flex-container {
+/*  .content.fixed-width.morePadding.flex-container {
       flex-direction:column;
   }
 
   .content.fixed-width.morePadding.flex-container.reverse {
       flex-direction:column-reverse;
-  }
+  }*/
 
   .content-spot.template-text-block .text-block.morePadding.Victoria {
     padding: 0 20px 20px;
@@ -2114,6 +2114,9 @@ li.padded {
     padding: 10px 20px 50px;
     box-sizing: border-box;
     }
+
+
+
 /*end patti smith*/
 
 /*details*/
