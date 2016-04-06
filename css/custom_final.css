@@ -576,6 +576,93 @@ h1.mag_title span {
 
 /*SLIDES*/
 
+
+/*template slider 1*/
+h1.title.shooting {
+  font-family: playfair display;
+  font-size: 40px;
+}
+
+h3.subHeading.Slider {
+  font-family: georgia;
+  letter-spacing: normal;
+  font-size: 15px;
+  color: #000000;
+ }
+
+h3.sliderCaption {
+  font-family: Arial;
+  color: #000000;
+  letter-spacing: normal;
+ }
+
+p.sliderCaption.ProductDescription {
+  font-family: Georgia;
+  color: #000000;
+  letter-spacing: normal;
+ }
+
+.credits h3 {
+    text-align: center;
+    font-size: 16px;
+    font-family: georgia;
+}
+
+.centered.col-6.textBelowImg {
+    display: block;
+    margin: 0 auto;
+    float: none;
+  }
+
+.leftAligned.imageAboveText {
+    display: block;
+    margin-left: 0;
+    float: none;
+}
+
+.centered.imageAboveText {
+    display: block;
+    margin: 0 auto;
+    float: none;
+}
+
+img.sliderCol9 {
+  width: auto;
+}
+
+img.sliderCol6 {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.slide.flex-container.elementsAlignedBottom {
+  display: flex;
+  align-items: flex-end;
+}
+.slide.flex-container.elementsAlignedTop {
+  display: flex;
+  align-items: flex-start;
+}
+
+@media only screen and (max-width: 900px) {
+
+  .slide.flex-container.elementsAlignedBottom, .slide.flex-container.elementsAlignedTop {
+      display: block;
+  }
+
+  img.hideMobile.imageAboveText {
+    display: none;
+  }
+
+}
+
+/*end template slider 1*/
+
+
+
 .slide.article img {
   max-height: 700px;
   width: auto;
@@ -617,10 +704,6 @@ h1.mag_title span {
   justify-content: flex-end;
 }
 
-.credits h3 {
-  text-align: center;
-  font-size: 16px;
-}
 
 
 /*masonry*/
