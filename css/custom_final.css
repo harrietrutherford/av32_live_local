@@ -267,24 +267,39 @@ h1.mag_title {
   box-sizing: border-box;
 }
 
-.content-spot .text-block.bitPadding {
+.content-spot .bitPadding {
   padding: 5px 20px 10px;
   box-sizing: border-box;
 }
 
-.content-spot .text-block.morePadding {
+.content-spot .morePadding {
   padding: 5px 100px 10px;
   box-sizing: border-box;
 }
 
-.content-spot .text-block.muchmorePadding {
+.content-spot .muchmorePadding {
   padding: 5px 250px 10px;
   box-sizing: border-box;
 }
 
-.content-spot .text-block.EvenMorePadding {
+.content-spot .EvenMorePadding {
   padding: 5px 400px 10px;
   box-sizing: border-box;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+  .content-spot .morePadding {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .content-spot .muchmorePadding {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
 }
 
 .content-spot.fixed-width.threeQuarters,
@@ -300,6 +315,9 @@ img.half-screen-img {
   width: 50%;
   margin: auto;
 }
+
+
+
 
 span.shopnow {
   display: block;
@@ -597,6 +615,11 @@ h1.mag_title span {
 
 .content.fixed-width.flex-container.leftAlign {
   justify-content: flex-end;
+}
+
+.credits h3 {
+  text-align: center;
+  font-size: 16px;
 }
 
 
@@ -1574,6 +1597,7 @@ body {
 
 img.half-screen-img {
   width: 100%;
+%;
   margin: auto;
 }
 
