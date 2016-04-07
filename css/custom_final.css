@@ -574,20 +574,74 @@ h1.mag_title span {
 
 /************************* templates*/
 
-/*SLIDES*/
+/*general fonts*/
 
+h2.centeredText {
+  text-align: center;
+}
 
-/*template slider 1*/
+h1.rightAlignedText, h2.rightAlignedText {
+  text-align: right;
+}
+
 h1.title.shooting {
   font-family: playfair display;
   font-size: 40px;
+  text-transform: none;
 }
 
-h3.subHeading.Slider {
+h2.title.subHeading {
+  font-family: poppins;
+  font-weight: 300;
+  font-size: 18px;
+  text-transform: none;
+}
+
+h2.SansSerif.Squares {
+    text-transform: none;
+    font-size: 30px;
+    font-family: poppins;
+}
+
+h3.subHeading {
   font-family: georgia;
   letter-spacing: normal;
   font-size: 15px;
   color: #000000;
+  line-height: normal;
+  text-align: justify;
+ }
+
+h3.subHeading.SansSerif {
+  font-family: Poppins;
+  letter-spacing: normal;
+  font-size: 15px;
+  color: #000000;
+  line-height: normal;
+  text-align: justify;
+ }
+
+
+h2.Serif.Squares {
+    text-transform: none;
+    font-size: 30px;
+    font-family: playfair display;
+}
+
+p.Squares.Slider {
+  font-family: georgia;
+  letter-spacing: normal;
+  font-size: 13px;
+  color: #000000;
+  line-height: normal;
+ }
+
+p.SansSerif.Squares {
+  font-family: Poppins;
+  letter-spacing: normal;
+  font-size: 13px;
+  color: #000000;
+  line-height: normal;
  }
 
 h3.sliderCaption {
@@ -596,15 +650,41 @@ h3.sliderCaption {
   letter-spacing: normal;
  }
 
-p.sliderCaption.ProductDescription {
+p.ProductDescription {
   font-family: Georgia;
   color: #000000;
   letter-spacing: normal;
  }
 
+
+/*general flexcontainer*/
+
+
+.flex-container.elementsAlignedCenter {
+  display: flex;
+  align-items: center;
+}
+.flex-container.elementsAlignedBottom {
+  display: flex;
+  align-items: flex-end;
+}
+.flex-container.elementsAlignedTop {
+  display: flex;
+  align-items: flex-start;
+}
+
+
+
+/*SLIDES*/
+
+
+/*template slider 1*/
+
+
+
 .credits h3 {
     text-align: center;
-    font-size: 16px;
+    font-size: 14px;
     font-family: georgia;
 }
 
@@ -637,25 +717,25 @@ img.sliderCol6 {
 }
 
 
-
-.slide.flex-container.elementsAlignedBottom {
-  display: flex;
-  align-items: flex-end;
-}
-.slide.flex-container.elementsAlignedTop {
-  display: flex;
-  align-items: flex-start;
-}
-
 @media only screen and (max-width: 900px) {
 
-  .slide.flex-container.elementsAlignedBottom, .slide.flex-container.elementsAlignedTop {
+  .flex-container.elementsAlignedBottom, .flex-container.elementsAlignedTop {
       display: block;
   }
 
-  img.hideMobile.imageAboveText {
+  img.hideMobile {
     display: none;
   }
+
+  h1.title.shooting.morePadding, h2.subHeading.morePadding, h3.subHeading.morePadding {
+    padding: 0;
+  }
+
+
+  h1.rightAlignedText, h2.rightAlignedText {
+  text-align: left;
+  }
+
 
 }
 
