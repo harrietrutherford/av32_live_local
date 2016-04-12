@@ -82,19 +82,8 @@ h1.mag_title {
 }
 
 
-.primary-content .content-asset h2 {
-    text-transform: uppercase;
-    font-weight: 600;
-  }
-
 .primary-content .content-asset h3.designer-name {
   line-height: inherit;herit;
-}
-
-.content-spot .col-2 {
-  width: 20%;
-  float: left;
-  height: 100%;
 }
 
 .absolute {
@@ -576,7 +565,7 @@ h1.mag_title span {
 
 /*general fonts*/
 
-h2.centeredText {
+h1.centeredText, h2.centeredText, h3.centeredText, p.centeredText {
   text-align: center;
 }
 
@@ -584,23 +573,31 @@ h1.rightAlignedText, h2.rightAlignedText {
   text-align: right;
 }
 
+h1.notUppercase, h2.notUppercase {
+  text-transform: none;
+}
+
 h1.title.shooting {
   font-family: playfair display;
   font-size: 40px;
-  text-transform: none;
 }
 
 h2.title.subHeading {
   font-family: poppins;
   font-weight: 300;
   font-size: 18px;
-  text-transform: none;
 }
 
-h2.SansSerif.Squares {
+h2.SansSerif {
     text-transform: none;
     font-size: 30px;
     font-family: poppins;
+}
+
+h2.Serif {
+    text-transform: none;
+    font-size: 30px;
+    font-family: playfair display;
 }
 
 h3.subHeading {
@@ -621,12 +618,6 @@ h3.subHeading.SansSerif {
   text-align: justify;
  }
 
-
-h2.Serif.Squares {
-    text-transform: none;
-    font-size: 30px;
-    font-family: playfair display;
-}
 
 p.Squares.Slider {
   font-family: georgia;
@@ -657,6 +648,26 @@ p.ProductDescription {
  }
 
 
+/*general positioning*/
+.content.col-2 {
+  width: 20%;
+  float: left;
+  height: 100%;
+}
+
+.col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight {
+    display: block;
+    margin-right: 0;
+    float: none;
+}
+
+.col-9.centered, .col-8.centered, .col-6.centered, .col-4.centered, .col-3.centered {
+    display: block;
+    margin: 0 auto;
+    float: none;
+}
+
+
 /*general flexcontainer*/
 
 
@@ -680,19 +691,10 @@ p.ProductDescription {
 
 /*template slider 1*/
 
-
-
 .credits h3 {
-    text-align: center;
     font-size: 14px;
     font-family: georgia;
 }
-
-.centered.col-6.textBelowImg {
-    display: block;
-    margin: 0 auto;
-    float: none;
-  }
 
 .leftAligned.imageAboveText {
     display: block;
@@ -707,11 +709,11 @@ p.ProductDescription {
 }
 
 img.sliderCol9 {
-  width: auto;
+  width: 100%;
 }
 
 img.sliderCol6 {
-    width: auto;
+    width: 100%;
     display: block;
     margin: 0 auto;
 }
@@ -719,7 +721,7 @@ img.sliderCol6 {
 
 @media only screen and (max-width: 900px) {
 
-  .flex-container.elementsAlignedBottom, .flex-container.elementsAlignedTop {
+  .flex-container.elementsAlignedBottom, .flex-container.elementsAlignedTop, .flex-container.elementsAlignedCenter {
       display: block;
   }
 
@@ -735,6 +737,13 @@ img.sliderCol6 {
   h1.rightAlignedText, h2.rightAlignedText {
   text-align: left;
   }
+
+
+
+.col-2.mob-col-12 {
+  width: 100%;
+}
+
 
 
 }
