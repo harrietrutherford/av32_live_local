@@ -565,6 +565,11 @@ h1.mag_title span {
 
 /*general fonts*/
 
+
+h1.justifiedText, h2.justifiedText, h3.justifiedText, p.justifiedText {
+  text-align: justify;
+}
+
 h1.centeredText, h2.centeredText, h3.centeredText, p.centeredText {
   text-align: center;
 }
@@ -577,15 +582,24 @@ h1.notUppercase, h2.notUppercase {
   text-transform: none;
 }
 
+h1 {
+  margin-bottom: 0px;
+  font-family: Poppins, Arial;
+}
+
+h1.serif,  h2.serif,  h3.serif,  h4.serif,  h5.serif, p.serif {
+  font-family: Playfair Display, Georgia;
+}
+
 h1.title.shooting {
-  font-family: playfair display;
-  font-size: 40px;
+  font-size: 28px;
 }
 
 h2.title.subHeading {
-  font-family: poppins;
+  font-family: Arial;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 13px;
+  margin-bottom: 0;
 }
 
 h2.SansSerif {
@@ -600,24 +614,25 @@ h2.Serif {
     font-family: playfair display;
 }
 
-h3.subHeading {
-  font-family: georgia;
-  letter-spacing: normal;
-  font-size: 15px;
-  color: #000000;
-  line-height: normal;
-  text-align: justify;
- }
+h2.Arial {
+    text-transform: none;
+    font-size: 47px;
+    font-family: Arial;
+    margin: 0;
+}
 
-h3.subHeading.SansSerif {
-  font-family: Poppins;
-  letter-spacing: normal;
-  font-size: 15px;
-  color: #000000;
-  line-height: normal;
-  text-align: justify;
- }
+.primary-content .content-asset h3 {
+  line-height: 21px;
+}
 
+h3.subHeading, h3.sliderBody {
+  margin: 0;
+  font-family: arial;
+  font-size: 13px;
+  line-height: 21px;
+  color: #000000;
+  letter-spacing: normal;
+ }
 
 p.Squares.Slider {
   font-family: georgia;
@@ -630,23 +645,22 @@ p.Squares.Slider {
 p.SansSerif.Squares {
   font-family: Poppins;
   letter-spacing: normal;
-  font-size: 13px;
+  font-size: 11px;
   color: #000000;
   line-height: normal;
  }
 
-h3.sliderCaption {
-  font-family: Arial;
-  color: #000000;
-  letter-spacing: normal;
- }
-
 p.ProductDescription {
-  font-family: Georgia;
+  font-family: Playfair display;
   color: #000000;
   letter-spacing: normal;
  }
 
+span.lighterTitle {
+  font-size: 53px;
+  font-family: Playfair display;
+  line-height: 50px;
+}
 
 /*general positioning*/
 .content.col-2 {
@@ -657,8 +671,7 @@ p.ProductDescription {
 
 .col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight {
     display: block;
-    margin-right: 0;
-    float: none;
+    float: right;
 }
 
 .col-9.centered, .col-8.centered, .col-6.centered, .col-4.centered, .col-3.centered {
@@ -666,6 +679,63 @@ p.ProductDescription {
     margin: 0 auto;
     float: none;
 }
+
+
+/*general spacing*/
+
+.spacer97px {
+  height: 97px;
+}
+
+.spacer52px {
+  height: 52px;
+}
+
+.spacer44px {
+  height: 44px;
+}
+
+.spacer90px {
+  height: 90px;
+}
+
+.spacer80px {
+  height: 80px;
+}
+
+.spacer70px {
+  height: 70px;
+}
+
+.spacer60px {
+  height: 60px;
+}
+
+.spacer50px {
+  height: 50px;
+}
+
+.spacer40px {
+  height: 40px;
+}
+
+.spacer30px {
+  height: 30px;
+}
+
+.spacer20px {
+  height: 20px;
+}
+
+.spacer10px {
+  height: 10px;
+}
+
+.spacer5px {
+  height: 5px;
+}
+
+
 
 
 /*general flexcontainer*/
@@ -723,6 +793,10 @@ img.sliderCol6 {
 
   .flex-container.elementsAlignedBottom, .flex-container.elementsAlignedTop, .flex-container.elementsAlignedCenter {
       display: block;
+  }
+
+  .hideMobile {
+    display: none;
   }
 
   img.hideMobile {
