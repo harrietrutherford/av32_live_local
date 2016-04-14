@@ -674,7 +674,13 @@ span.lighterTitle {
     float: right;
 }
 
-.col-9.centered, .col-8.centered, .col-6.centered, .col-4.centered, .col-3.centered {
+.col-9.centered, .col-8.centered, .col-6.centered, .col-4.centered, .col-3.centered  {
+    display: block;
+    margin: 0 auto;
+    float: none;
+}
+
+.mob-col-9.moBcentered, .mob-col-8.moBcentered, .mob-col-6.moBcentered, .mob-col-4.moBcentered, .mob-col-3.moBcentered  {
     display: block;
     margin: 0 auto;
     float: none;
