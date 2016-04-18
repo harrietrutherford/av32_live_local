@@ -570,7 +570,7 @@ h1.justifiedText, h2.justifiedText, h3.justifiedText, p.justifiedText {
   text-align: justify;
 }
 
-h1.centeredText, h2.centeredText, h3.centeredText, p.centeredText {
+h1.centeredText, h2.centeredText, h3.centeredText, p.centeredText, span.centeredText {
   text-align: center;
 }
 
@@ -745,7 +745,9 @@ span.lighterTitle {
 
 
 /*general flexcontainer*/
-
+.flex-container {
+  overflow: hidden;
+}
 
 .flex-container.elementsAlignedCenter {
   display: flex;

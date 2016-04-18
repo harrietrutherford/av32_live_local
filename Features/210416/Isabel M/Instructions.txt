@@ -1,0 +1,94 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: IsabelM.indd
+
+PACKAGE DATE: 18/04/2016 13:34
+Creation Date: 18/04/2016
+Modification Date: 18/04/2016
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+7 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+- Name: Georgia; Type: OpenType TrueType, Status: OK
+- Name: Georgia-Bold; Type: OpenType TrueType, Status: OK
+- Name: Georgia-Italic; Type: OpenType TrueType, Status: OK
+- Name: Poppins-SemiBold; Type: OpenType TrueType, Status: OK
+- Name: Times-Italic; Type: TrueType, Status: OK
+- Name: Times-Roman; Type: TrueType, Status: OK
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 7 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 7 use RGB colour space
+
+
+PRINT SETTINGS
+PPD: HP Color LaserJet CP2020 Series, (HP Color LaserJet CP2025n (0F9511))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 px, 0 px, 0 px, 0 px
+Colour: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 1360 px x 1232 px
+Paper Dimensions: 595 px x 842 px
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. IsabelM.indd; type: Adobe InDesign publication; size: 3660K
+2. Arial.ttf; type: Font file; size: 756K
+3. Georgia.ttf; type: Font file; size: 370K
+4. Georgia Bold.ttf; type: Font file; size: 355K
+5. Georgia Italic.ttf; type: Font file; size: 391K
+6. Poppins-SemiBold.ttf; type: Font file; size: 272K
+7. Times.dfont; type: Font file; size: 1581K
