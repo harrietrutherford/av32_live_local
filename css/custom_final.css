@@ -51,6 +51,7 @@ figcaption {
   display: none;
 }
 
+
 .content-spot .owl-next {
     background-image: url(http://wpm.ccmp.eu/wpm/679/ContentUploads/img/arrow-carousel-dx.png);
     background-size: 27px;
@@ -63,8 +64,21 @@ figcaption {
     background-position: 60%;
   }
 
+.content-spot .owl-prev, .content-spot .owl-next {
+    position: absolute;
+    top: 43%;
+    height: 40px;
+    width: 40px;
+    margin-top: -40px;
+    opacity: 0.9;
+}
 
-
+@media only screen and (max-width: 900px) {
+  .content-spot.template-slider .owl-prev, .content-spot .template-slider .owl-next {
+      top: 40%;
+      margin-top: -20px;
+  }
+}
 
 .buttonHomepage {
   font-family: poppins;
@@ -577,6 +591,7 @@ h1.mag_title span {
 
 .primary-content h1, .primary-content h2, .primary-content h3, .primary-content h4, .primary-content h5, .primary-content p, .primary-content span {
   letter-spacing: normal;
+  line-height: normal;
 }
 
 h1.justifiedText, h2.justifiedText, h3.justifiedText, p.justifiedText {
