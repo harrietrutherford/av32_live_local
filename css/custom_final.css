@@ -575,6 +575,9 @@ h1.mag_title span {
 
 /*general fonts*/
 
+.primary-content h1, .primary-content h2, .primary-content h3, .primary-content h4, .primary-content h5, .primary-content p, .primary-content span {
+  letter-spacing: normal;
+}
 
 h1.justifiedText, h2.justifiedText, h3.justifiedText, p.justifiedText {
   text-align: justify;
