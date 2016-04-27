@@ -636,7 +636,7 @@ h2.SansSerif {
     font-family: poppins;
 }
 
-h2.Serif {
+h2.serif.quote {
     text-transform: none;
     font-size: 30px;
     font-family: playfair display;
@@ -1412,7 +1412,7 @@ li.padded {
 }
 
 img.padded {
-  padding: 20px 0;
+  padding: 20px;
 }
 
 .content-asset ul li {
