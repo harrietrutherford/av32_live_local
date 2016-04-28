@@ -695,7 +695,7 @@ span.lighterTitle {
 }
 
 /*general positioning*/
-.content.col-2 {
+.content-spot .col-2 {
   width: 20%;
   float: left;
   height: 100%;
