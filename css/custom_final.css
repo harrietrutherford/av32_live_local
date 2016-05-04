@@ -623,12 +623,6 @@ h1.title.shooting {
   font-size: 28px;
 }
 
-h2.title.subHeading {
-  font-family: Arial;
-  font-weight: 300;
-  font-size: 13px;
-  margin-bottom: 0;
-}
 
 h2.SansSerif {
     text-transform: none;
@@ -647,6 +641,13 @@ h2.Arial {
     font-size: 47px;
     font-family: Arial;
     margin: 0;
+}
+
+h2.title.subHeading {
+  font-family: Arial;
+  font-weight: 300;
+  font-size: 13px;
+  margin-bottom: 0;
 }
 
 .primary-content .content-asset h3 {
