@@ -650,8 +650,15 @@ h2.title.subHeading {
   margin-bottom: 0;
 }
 
+h2.subHeading {
+  font-family: Arial;
+  font-weight: 300;
+  font-size: 17px;
+  margin-bottom: 0;
+}
+
 .primary-content .content-asset h3 {
-  line-height: 21px;
+  line-height: 1.25;
 }
 
 .content-spot h3 {
@@ -662,7 +669,7 @@ h3.subHeading, h3.sliderBody {
   margin: 0;
   font-family: arial;
   font-size: 13px;
-  line-height: 21px;
+  line-height: 1.25;
   color: #000000;
   letter-spacing: normal;
  }
