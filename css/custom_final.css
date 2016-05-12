@@ -512,6 +512,14 @@ p.article-link {
     padding: 20px 40px 30px;
 }
 
+.caption.homepage {
+    bottom: 0px;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    padding: 20px 40px 30px;
+}
+
 .articlePreviewPic img {
   width: 150px;
 }
@@ -847,7 +855,7 @@ img.sliderCol6 {
     display: none;
   }
 
-  img.hideMobile {
+  img.hideMobile, img.centered.hideMobile, img.floatRight.hideMobile {
     display: none;
   }
 
@@ -1234,6 +1242,7 @@ span.span_wool {
 
 .timeline_long {
   background-color: #000000;
+  width: 2px;
 }
 
 
