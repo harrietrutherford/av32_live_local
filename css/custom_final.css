@@ -11,6 +11,10 @@ body {
 }
 
 
+.category-carousel .recommendation-item .product-price {
+  display: none;
+}
+
 @media only screen and (max-width: 899px) and (min-width: 768px) {
 .content-spot.template-slider h2 {
     font-size: 25px;
@@ -602,15 +606,15 @@ h1.mag_title span {
   line-height: normal;
 }
 
-h1.justifiedText, h2.justifiedText, h3.justifiedText, p.justifiedText {
+h1.justifiedText, h2.justifiedText, h3.justifiedText, h4.justifiedText, p.justifiedText {
   text-align: justify;
 }
 
-h1.centeredText, h2.centeredText, h3.centeredText, p.centeredText, span.centeredText {
+h1.centeredText, h2.centeredText, h3.centeredText, h4.centeredText, p.centeredText, span.centeredText {
   text-align: center;
 }
 
-h1.rightAlignedText, h2.rightAlignedText {
+h1.rightAlignedText, h2.rightAlignedText, h3.rightAlignedText, h4.rightAlignedText {
   text-align: right;
 }
 
@@ -630,6 +634,30 @@ h1.serif,  h2.serif,  h3.serif,  h4.serif,  h5.serif, p.serif {
 h1.title.shooting {
   font-size: 28px;
 }
+
+/*HOMEPAGE TITLE*/
+.content-spot.template-slider h2.smallerTitle {
+    font-size: 38px;
+    line-height: 54px;
+    margin: 5px 0 20px 0;
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+.content-spot.template-slider h2.smallerTitle {
+    font-size: 24px;
+    line-height: normal;
+    margin: 5px 0;
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: 600;
+    letter-spacing: 3px;
+  }
+}
+/*HOMEPAGE TITLE*/
 
 
 h2.SansSerif {
@@ -665,6 +693,12 @@ h2.subHeading {
   margin-bottom: 0;
 }
 
+h3.serif.quote {
+    text-transform: none;
+    font-size: 22px;
+    font-family: playfair display;
+}
+
 .primary-content .content-asset h3 {
   line-height: 1.25;
 }
@@ -682,12 +716,29 @@ h3.subHeading, h3.sliderBody {
   letter-spacing: normal;
  }
 
+h4.subHeading, h4.sliderBody {
+  margin: 0;
+  font-family: arial;
+  font-size: 11px;
+  line-height: 1.5;
+  color: #000000;
+  letter-spacing: normal;
+ }
+
 p.Squares.Slider {
   font-family: georgia;
   letter-spacing: normal;
   font-size: 13px;
   color: #000000;
   line-height: normal;
+ }
+
+p.Squares.Slider.Smaller {
+  font-family: georgia;
+  letter-spacing: normal;
+  font-size: 11px;
+  color: #000000;
+  line-height: 1.5;
  }
 
 p.SansSerif.Squares {
@@ -834,6 +885,14 @@ span.lighterTitle {
     float: none;
 }
 
+h2.sliderPointer.left {
+  border-left: 1px solid #000000;
+}
+
+h2.sliderPointer.right {
+  border-right: 1px solid #000000;
+}
+
 img.sliderCol9 {
   width: 100%;
 }
@@ -868,11 +927,13 @@ img.sliderCol6 {
   text-align: left;
   }
 
+  h2.sliderPointer.left, h2.sliderPointer.right {
+    display: none;
+  }
 
-
-.col-2.mob-col-12 {
+  .col-2.mob-col-12 {
   width: 100%;
-}
+  }
 
 
 
