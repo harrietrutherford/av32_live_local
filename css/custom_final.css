@@ -84,6 +84,14 @@ figcaption {
   }
 }
 
+
+@media only screen and (max-width: 767px) {
+  .content-spot.template-slider .text-block.left {
+      padding: 20px 10px;
+  }
+
+}
+
 .buttonHomepage {
   font-family: poppins;
   background-color: #000;
@@ -376,6 +384,13 @@ span.shopnow {
   padding: 30px 0px;
 }
 
+@media only screen and (max-width: 768px) {
+
+  .content-spot.template-featured-products {
+    padding: 0px 0px 30px 0;
+  }
+}
+
 .content-spot .product-tile {
   padding: 0;
 }
@@ -543,7 +558,6 @@ p.article-link {
 .caption.homepage {
     bottom: 0px;
     position: absolute;
-    background: rgba(255, 255, 255, 0.5);
     width: 100%;
     padding: 20px 20px 30px;
 }
@@ -1220,7 +1234,6 @@ h1.job_info_title {
     letter-spacing: 1px;
     font-weight: lighter;
     line-height: 25px;
-    padding: 1em;
 }
 
 .info_about ul {
