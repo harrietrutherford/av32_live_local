@@ -1,5 +1,5 @@
 ____________
-02 02 16
+02 06 16
 
 main: Pre fall
 (main US: Pre fall + Sale)
@@ -31,7 +31,7 @@ Bold as Brass
 ____________
 
 ____________
-09 02 16
+09 06 16
 
 main: Sale
 
@@ -60,7 +60,7 @@ Anna K
 ____________
 
 ____________
-16 02 16
+16 06 16
 
 main: Sale
 
@@ -93,7 +93,7 @@ Anna K
 ____________
 
 ____________
-23 02 16
+23 06 16
 
 main: Sale / Kiini
 
@@ -130,7 +130,7 @@ Supernatural
 Anna K
 ____________
 ____________
-23 02 16
+30 06 16
 
 main: Sale / Kiini
 
@@ -158,6 +158,60 @@ rows:
 		Must have Bags
 
 ARCHIVE:
+embroidery 
+it bags
+summer jackets
+pop feature
+maryam
+julia - influencer
+swimsuit
+pom pom
+cover up
+Goodlife
+Supernatural
+Anna K
+____________
+
+____________
+07 07 16
+
+main: Sale
+
+features:
+
+Cotton
+Mules
+	Isabel Marant (UK)
+	Roksanda (US)
+
+LANDING:
+main:	Prefall
+
+side:	
+
+		Cotton
+		Mules
+			Isabel Marant (UK)
+			Roksanda (US)
+
+
+rows:	
+
+		Summer Packing
+		Summer Sandals
+		Buy Now Wear Later
+
+		Shop the shoot
+		Vivetta
+		Biggest Reductions
+
+
+ARCHIVE:
+
+pandora
+Minna
+Must have Bags
+
 embroidery 
 it bags
 summer jackets

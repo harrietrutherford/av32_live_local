@@ -128,9 +128,12 @@ h1.mag_title {
   height: auto;
 }
 
+a.panel-link.whiteText {
+  color: #ffffff;
+}
 
-.primary-content .content-asset h3.designer-name {
-  line-height: inherit;herit;
+.content-asset h3.designer-name {
+    margin: auto;
 }
 
 .absolute {
@@ -656,6 +659,12 @@ h1.centeredText, h2.centeredText, h3.centeredText, h4.centeredText, p.centeredTe
   color: #C50015;
 }
 
+/*white*/
+    color: #ffffff;
+}
+
+.content-spot .product-tile a
+
 h1.rightAlignedText, h2.rightAlignedText, h3.rightAlignedText, h4.rightAlignedText {
   text-align: right;
 }
@@ -802,6 +811,11 @@ h3.subHeading, h3.sliderBody {
   letter-spacing: normal;
  }
 
+h4.serif.quote {
+    font-size: 17px;
+    font-family: playfair display;
+}
+
 h4.subHeading, h4.sliderBody {
   margin: 0;
   font-family: arial;
@@ -846,6 +860,11 @@ span.lighterTitle {
   font-size: 53px;
   font-family: Playfair display;
   line-height: 50px;
+}
+
+
+h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeight, p.higherLineHeight, span.higherLineHeight {
+  line-height: 2;
 }
 
 .buttonCTA {
@@ -1272,85 +1291,6 @@ img.job_info_title {
 
 
 
-/*the knot*/
-.text-block.left.col-6.mob-col-12.flex-container.leftComment {
-  padding: 5px 0px 10px 100px;
-}
-
-
-img.arrowKnot.vertical {
-    width: auto;
-    height: 140px;
-    margin: auto;
-}
-
-img.arrowKnot.horizontal {
-    width: auto;
-    height: 80px;
-    display: inline-block;
-    margin: auto 0 auto 60%;
-
-}
-
-img.knot.lower {
-    padding-top: 30px;
-
-}
-
-.arrowLeftText {
-  padding: 0 20px;
-}
-
-p.textIntro {
-  width: 75%;
-  float: right;
-}
-
-
-/*the knot end*/
-
-/*the wool*/
-
-img.half-screen {
-    width: 50%;
-    margin: auto;
-}
-
-.squareSquare {
-  text-align: center;
-}
-
-.squareSquare h1 {
-  margin: 40% 20% 0 20%;
-}
-
-.square2 {
-    position: relative;
-    display: inline-block;
-}
-
-span.span_wool {
-    color: #444;
-    font-size: 12px;
-    left: 0;
-    right: 0;
-    position: relative;
-    letter-spacing: 1px;
-    line-height: 20px;
-    padding-bottom: 20px;
-}
-
-.Rectangle_1 {
-  background-color: rgb(0, 0, 0);
-  position: absolute;
-  left: 132px;
-  top: 208px;
-  width: 1px;
-  height: 107px;
-  z-index: 2;
-}
-/*end the wool*/
-
 
 /*top10*/
 
@@ -1464,248 +1404,6 @@ p.timeline-text {
 /*end top 10*/
 
 
-
-/*WANG*/
-.flex-container.column {
-  flex-direction:column;
-}
-
-.flex-container.column.right {
-   -webkit-flex-direction: column;
-   flex-direction: column;
-   -webkit-align-items: flex-end;
-   align-items: flex-end;
-}
-.flex-container.column.left {
-   -webkit-flex-direction: column;
-   flex-direction: column;
-   -webkit-align-items: flex-start;
-   align-items: flex-start;
-   width: 80%;
-}
-
-.content-spot .fixed-width.morePadding.Wang2 {
-  padding: 0px 100px 50px;
-  box-sizing: border-box;
-}
-.content-spot .text-block.EvenMorePadding.wool {
-  padding: 5px 200px 10px;
-  box-sizing: border-box;
-}
-.grid_block {
-  margin: 20px;
-  background-color: #ffffff;
-}
-
-.wang p {
-  padding-top: 10px;
-  background-color: #ffffff;
-  text-align: center;
-  font-size: 22px;
-  color: #000000;
-  margin-bottom: 0px;
-}
-
-.wang span {
-  display: block;
-  background-color: #ffffff;
-  text-align: center;
-  font-size: 12px;
-  line-height: 20px;
-  margin: 0 auto;
-}
-
-.wang span.smaller {
-  display: block;
-  background-color: #ffffff;
-  text-align: center;
-  font-size: 12px;
-  margin: 0 auto;
-}
-
-img.Wang_Smaller {
-  display: inline-block;
-  float: right;
-}
-
-
-
-.eightypercent_right {
-  float: right;
-  width: 80%;
-}
-
-
-.eightypercent_left {
-  width: 80%;
-}
-
-.gridblock {
-  margin: 10px;
-  background-color: #ffffff;
-}
-/*WANG*/
-
-/*Victoria beckham*/
-img.Victoria_image3 {
-  float: right;
-  width: 75%;
-}
-img.Victoria_image4 {
-  float: left;
-  width: 50%;
-}
-img.Victoria_image5 {
-  float: right;
-  width: 50%;
-}
-
-.content-spot .text-block.morePadding.Victoria, .content-spot .text-block.morePadding.Grouping {
-  padding: 100px 100px 0px;
-  box-sizing: border-box;
-}
-
-.content-spot .fixed-width.morePadding.Victoria2 {
-  padding: 0px 100px 50px;
-  box-sizing: border-box;
-}
-/*Victoria beckham*/
-
-
-
-/*patti smith*/
-
-.text-block.square.col-6.mob-col-12.flex-container.patti-smith {
-  justify-content: space-around;
-  align-items: center;
-}
-
-.equation {
-    display: inline-block;
-    text-align: center;
-    padding: 10px;
-}
-
-
-.equation img.equation {
-  max-width: 150px;
-}
-
-
-img.plus {
-  display: block;
-  margin: 0 auto;
-  width: 80px;
-}
-
-.content.fixed-width.morePadding.flex-container {
-    justify-content: center;
-    align-items: center;
-}
-
-.PattiSmith {
-  text-align: center;
-}
-
-/*end patti smith*/
-
-
-
-/*patricia crockett*/
-
-/*patricia crockett end*/
-
-.patricia img {
-  display: block;
-  margin: 0 auto;
-}
-
-
-.slide.article img.patricia.paragraph {
-  display: block;
-  margin: 0 auto;
-  max-height: 200px;
-  width: auto;
-}
-
-/*check feature */
-
-.checkbox {
-    display: flex;
-    align-items: stretch;
-    justify-content: flex-start;
-}
-
-.checkbox.bottom {
-    padding-bottom: 200px;
-}
-
-.checkbox img {
-  height: 500px;
-  width: auto;
-}
-
-p.check {
-  line-height: 14px;
-}
-
-/*details*/
-
-.detailsArticle {
-  display: flex;
-  justify-content:center;
-}
-
-span.details {
-  text-align: center;
-  display: block;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-  z-index: 5;
-  font-family: "Poppins",Arial,sans-serif;
-}
-
-span.details.bottom {
-  padding-bottom: 200px;
-}
-
-img.details {
-  padding: 10px 10px 0px 10px;
-} 
-/*end details*/
-
-/*hero*/
-
-.caption.hero {
-  font-family: playfair display;
-  color: #444;
-}
-
-.primary-content .content-asset h2.Hero {
-  text-transform: none;
-}
-
-
-p.Hero {
-  text-align: center;
-}
-
-.content.fixed-width.flex-container.hero {
-  align-items: center;
-}
-
-/*end hero*/
-
-
-/*three of a kind*/
-
-span.threeofakind {
-      text-align: center;
-    display: block;
-    font-family: poppins;
-    font-weight: 300;
-}
-
 .myContentPFW span {
         text-align: center;
     display: block;
@@ -1715,31 +1413,12 @@ span.threeofakind {
 
 /*end three of a kind*/
 
-/*easter break*/
-
-.content.fixed-width.flex-container.easter{
-  align-items: center;
-}
 
 .content.fixed-width.flex-container.easter.reverse {
   align-items: center;
   flex-direction: row-reverse;
 }
 
-.primary-content .content-asset h2.Easter {
-    text-transform: none;
-    font-family: playfair display;
-}
-
-
-img.easter.paragraph {
-  display: block;
-  margin: 0 auto;
-  max-height: 150px;
-  width: auto;
-}
-
-/*end easter break*/
 
 
 
@@ -1989,119 +1668,6 @@ span.product-name {
   background-color: #ffffff;
 }
 
-.wang p {
-  padding-top: 10px;
-  background-color: #ffffff;
-  text-align: center;
-  font-size: 22px;
-  color: #000000;
-  margin-bottom: 0px;
-}
-
-.wang span {
-  display: block;
-  background-color: #ffffff;
-  text-align: center;
-  font-size: 12px;
-  line-height: 20px;
-  margin: 0 auto;
-}
-
-.wang span.smaller {
-  display: block;
-  background-color: #ffffff;
-  text-align: center;
-  font-size: 12px;
-  margin: 0 auto;
-}
-
-img.Wang_Smaller {
-  display: inline-block;
-  float: right;
-}
-
-
-
-.eightypercent_right {
-  float: right;
-  width: 80%;
-}
-
-
-.eightypercent_left {
-  width: 80%;
-}
-
-.gridblock {
-  margin: 10px;
-  background-color: #ffffff;
-}
-/*WANG*/
-
-/*Victoria beckham*/
-img.Victoria_image3 {
-  float: right;
-  width: 75%;
-}
-img.Victoria_image4 {
-  float: left;
-  width: 50%;
-}
-img.Victoria_image5 {
-  float: right;
-  width: 50%;
-}
-
-.content-spot .text-block.morePadding.Victoria {
-  padding: 100px 100px 0px;
-  box-sizing: border-box;
-}
-
-.content-spot .fixed-width.morePadding.Victoria2 {
-  padding: 0px 100px 50px;
-  box-sizing: border-box;
-}
-/*Victoria beckham*/
-
-
-
-/*patti smith*/
-
-.text-block.square.col-6.mob-col-12.flex-container.patti-smith {
-  justify-content: space-around;
-  align-items: center;
-}
-
-.equation {
-    display: inline-block;
-    text-align: center;
-    padding: 10px;
-}
-
-.equation img.equation {
-  max-width: none;
-}
-
-img.plus {
-  display: block;
-  margin: 0 auto;
-  width: 80px;
-}
-.text-block.square.col-6.mob-col-12.flex-container.stacked {
-    display: block;
-}
-
-.content.fixed-width.morePadding.flex-container {
-    justify-content: center;
-    align-items: center;
-}
-
-.PattiSmith {
-  text-align: center;
-}
-
-/*end patti smith*/
-
 
 
 /*PFW*/
@@ -2248,9 +1814,6 @@ p.info_about {
 
 
 /*wang*/
-.content.fixed-width.muchmorePadding.Wang {
-  padding: 20px;
-}
 
 .content-spot .magazine-tile {
   height: auto;
@@ -2260,11 +1823,6 @@ p.info_about {
   padding: 0px;
 }
 
-img.Wang_Smaller, img.Wang_Smaller_left {
-  display: inline-block;
-  margin: 0 auto;
-  width: 100%;
-}
 
   #myContent {
    -moz-column-count: 1;
@@ -2281,16 +1839,6 @@ img.Wang_Smaller, img.Wang_Smaller_left {
    padding: 0px;
    }
 
-
-    .eightypercent_right, .eightypercent_left {
-      width: 100%;
-      float: none;
-    }
-
-    .gridblock {
-     width: 100%;
-     margin: 10px 0;
-    }
 /* end wang*/
 
 
@@ -2310,30 +1858,9 @@ padding: 0;
 }
 
 
-
-img.arrowKnot.horizontal, img.arrowKnot.vertical {
-  display: none;
-}
-
-
-img.knot.lower {
-    padding-top: 0px;
-}
-
 /*the knot end*/
 
 
-
-/*victoria beckham*/
-  .content-spot.template-text-block .text-block.morePadding.Victoria {
-    padding: 0 20px 20px;
-  }
-
-.content-spot .fixed-width.morePadding.Victoria2 {
-  padding: 10px 20px 50px;
-  box-sizing: border-box;
-  }
-/*end victoria beckham*/
 
 /*top10*/
 
@@ -2368,30 +1895,12 @@ img.knot.lower {
   }
 /*end top 10*/
 
-/*the wool*/
-  .squareSquare h1 {
-    text-align: center;
-    margin: 10%;
-  }
-
-  .square2 span {
-    position: absolute;
-    letter-spacing: 1px;
-    top: 100px;
-    right: 200px;
-    width: 150px;
-  }
-/*end the wool*/
 
 /*patti smith*/
   .content.fixed-width.morePadding.flex-container,  .content.fixed-width.morePadding.flex-container.reverse {
       display: block;
   }
 
-
-  .content-spot.template-text-block .text-block.morePadding.Victoria {
-    padding: 0 20px 20px;
-  }
 
   .content-spot .fixed-width.morePadding {
     padding: 10px 20px 50px;
@@ -2402,13 +1911,6 @@ img.knot.lower {
 
 /*end patti smith*/
 
-/*details*/
-
-  .details {
-    display: block;
-}
-
-/*end details*/
 
 /*hero*/
 
