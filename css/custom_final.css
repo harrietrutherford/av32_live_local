@@ -5,6 +5,9 @@ body {
   color: #000000;
 }
 
+img {
+  width: 100%;
+}
 
 .content-spot.fixed-width, .content.fixed-width {
   overflow: hidden;
@@ -126,10 +129,6 @@ h1.mag_title {
 
 .content-spot .panel-link {
   height: auto;
-}
-
-a.panel-link.whiteText {
-  color: #ffffff;
 }
 
 .content-asset h3.designer-name {
@@ -398,6 +397,14 @@ span.shopnow {
   padding: 0;
 }
 
+
+.content-spot .product-tile a.whiteText {
+  color: #ffffff;
+}
+
+
+
+
 .content-spot .product-tile.smaller a.panel-link {
   width: 80%;
   display: block;
@@ -424,6 +431,9 @@ span.shopnow {
 
 
 
+.content-spot .more-link.whiteArrow:after {
+  border-left: 5px solid #ffffff;
+}
 
 /*magazine landing page */
 
@@ -659,11 +669,9 @@ h1.centeredText, h2.centeredText, h3.centeredText, h4.centeredText, p.centeredTe
   color: #C50015;
 }
 
-/*white*/
-    color: #ffffff;
+.primary-content .content-asset h2 {
+  margin: auto;
 }
-
-.content-spot .product-tile a
 
 h1.rightAlignedText, h2.rightAlignedText, h3.rightAlignedText, h4.rightAlignedText {
   text-align: right;
@@ -884,7 +892,55 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
 
 
 /*general positioning*/
-.content-spot .col-2 {
+
+.full-width {
+  width: auto;
+  clear: both;
+}
+
+.fixed-width {
+  width: 100%;
+  max-width: 1360px;
+  margin: 0 auto;
+  position: relative;
+  overflow: auto;
+}
+
+.col-3 {
+  width: 25%;
+  float: left;
+  height: 100%;
+}
+
+.col-4 {
+  width: 33.333%;
+  float: left;
+  height: 100%;
+}
+
+.col-6 {
+  width: 50%;
+  float: left;
+  height: 100%;
+}
+
+.col-8 {
+  width: 66.666%;
+  height: 100%;
+  float: left;
+}
+
+.col-9 {
+  width: 75%;
+  height: 100%;
+  float: left;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+.col-2 {
   width: 20%;
   float: left;
   height: 100%;
@@ -907,6 +963,18 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
     float: none;
 }
 
+
+@media only screen and (max-width: 900px) {
+  .mob-col-12 {
+    width: 100%;
+  }
+  .mob-col-6 {
+    width: 50%;
+  }
+  .mob-col-4 {
+    width: 33%;
+  }
+}
 
 /*general spacing*/
 
@@ -1081,6 +1149,8 @@ img.sliderCol6 {
   .hideMobile {
     display: none;
   }
+
+
 
   img.hideMobile, img.centered.hideMobile, img.floatRight.hideMobile {
     display: none;
@@ -1995,3 +2065,240 @@ padding: 0;
 }
 
 /*end PDP*/
+
+
+/*new homepage*/
+
+/*spacing*/
+
+.padded {
+    padding: 20px;
+}
+.paddedVertical {
+    padding: 20px 0;
+}
+.paddedHorizontal {
+    padding: 0 20px;
+}
+.paddedLeft {
+    padding: 0 0 0 20px;
+}
+.paddedRight {
+    padding: 0 20px 0 0;
+}
+.paddedTop {
+    padding: 20px 0 0 0;
+}
+.paddedBottom {
+    padding: 0 0 20px 0;
+}
+
+/*end spacing*/
+
+  /*text overlay */
+  .image_container {
+    position: relative; 
+    width: 100%; /* for IE 6 */
+  }
+
+  .text_overlay {
+    position: absolute; 
+     bottom: 0px; 
+     width: 100%; 
+  }
+
+
+@media only screen and (min-width: 768px) {
+  .showMobile {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .image_container {
+    position: relative; 
+    width: 100%; /* for IE 6 */
+  }
+
+  .text_overlay {
+    position: inherit; 
+     bottom: 0px; 
+     width: 100%; 
+  }
+}
+
+
+  /*text overlay */
+
+
+.whiteText, a.whiteText {
+  color: #ffffff;
+}
+
+
+/*TYPOGRAPHY */
+
+h1, h2, h3, h4, h5, h6 {
+  margin: auto;
+}
+
+h1 {
+  font-size: 45px;
+  line-height: 45px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 21px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 11px;
+}
+
+span.shopNow {
+  font-family: Arial;
+}
+
+.fPoppins {
+  font-family: Poppins, Arial;
+  font-weight: normal;
+}
+
+.fPlayfair {
+  font-family: Playfair Display, Georgia;
+  font-weight: normal;
+}
+
+.fArial {
+  font-family: Arial;
+  font-weight: normal;
+}
+
+.fGeorgia {
+  font-family: Georgia;
+  font-weight: normal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+h1.justifiedText, h2.justifiedText, h3.justifiedText, h4.justifiedText, h5.justifiedText, h6.justifiedText, p.justifiedText {
+  text-align: justify;
+}
+
+h1.centeredText, h2.centeredText, h3.centeredText, h4.centeredText, h5.centeredText, h6.centeredText, p.centeredText, span.centeredText {
+  text-align: center;
+}
+
+h1.rightAlignedText, h2.rightAlignedText, h3.rightAlignedText, h4.rightAlignedText, h5.rightAlignedText, h6.rightAlignedText {
+  text-align: right;
+}
+
+
+
+/*TYPOGRAPHY */
+
+
+
+/*BUTTONS*/
+
+button {
+  background: #000000;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Poppins, Arial;
+  display: inline-block;
+  font-weight: 500;
+  padding: 10px 20px;
+  border: none;
+  width: auto;
+}
+
+button.white {
+  background: #ffffff;
+  color: #000000;
+}
+
+button.block {
+  display: block;
+  width: 100%;
+}
+
+button.centered {
+    margin: 20px auto;
+    display: block;
+}
+
+
+@media only screen and (max-width: 768px) {
+  button {
+    display: block;
+    margin: 20px auto;
+  }
+}
+
+
+button.small {
+  font-size: 11px;
+}
+
+button.large {
+  font-size: 20px;
+}
+
+button.transparent {
+  padding: 20px 0;
+  background: none;
+}
+
+/*end buttons*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*end new homepage*/
+
+
+
+
+
+
+
+
+
+
