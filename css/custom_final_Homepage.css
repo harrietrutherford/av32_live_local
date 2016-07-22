@@ -5,7 +5,7 @@ body {
   color: #000000;
 }
 
-img {
+img.Full {
   width: 100%;
 }
 
@@ -2102,10 +2102,33 @@ padding: 0;
     padding: 0 0 20px 0;
 }
 
+
+
+@media only screen and (max-width: 768px) {
+  .paddedVertical {
+      padding: 20px 0;
+  }
+  .paddedHorizontal {
+      padding: 0;
+  }
+  .paddedLeft {
+      padding: 0;
+  }
+  .paddedRight {
+      padding: 0;
+  }
+  .paddedTop {
+      padding: 0;
+  }
+  .paddedBottom {
+      padding: 0;
+  }
+}
+
 /*end spacing*/
 
   /*text overlay */
-/*  .image_container {
+  .image_container {
     position: relative; 
     width: 100%;
   }
@@ -2134,7 +2157,7 @@ padding: 0;
      bottom: 0px; 
      width: 100%; 
   }
-}*/
+}
 
 
   /*text overlay */
@@ -2146,7 +2169,7 @@ padding: 0;
 
 
 /*TYPOGRAPHY */
-/*
+
 h1, h2, h3, h4, h5, h6 {
   margin: auto;
 }
@@ -2207,7 +2230,7 @@ span.shopNow {
 
 .bold {
   font-weight: bold;
-}*/
+}
 
 h1.justifiedText, h2.justifiedText, h3.justifiedText, h4.justifiedText, h5.justifiedText, h6.justifiedText, p.justifiedText {
   text-align: justify;
@@ -2228,7 +2251,7 @@ h1.rightAlignedText, h2.rightAlignedText, h3.rightAlignedText, h4.rightAlignedTe
 
 
 /*BUTTONS*/
-/*
+
 button {
   background: #000000;
   color: #ffffff;
@@ -2277,7 +2300,7 @@ button.transparent {
   padding: 20px 0;
   background: none;
 }
-*/
+
 /*end buttons*/
 
 
