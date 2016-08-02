@@ -100,6 +100,10 @@ figcaption {
   background-color: #000000;
 }
 
+.greyBackground {
+  background-color: #dddddd;
+}
+
 .buttonHomepage {
   font-family: poppins;
   background-color: #000;
@@ -918,30 +922,25 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
 .col-3 {
   width: 25%;
   float: left;
-  height: 100%;
 }
 
 .col-4 {
   width: 33.333%;
   float: left;
-  height: 100%;
 }
 
 .col-6 {
   width: 50%;
   float: left;
-  height: 100%;
 }
 
 .col-8 {
   width: 66.666%;
-  height: 100%;
   float: left;
 }
 
 .col-9 {
   width: 75%;
-  height: 100%;
   float: left;
 }
 
@@ -952,7 +951,6 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
 .col-2 {
   width: 20%;
   float: left;
-  height: 100%;
 }*/
 
 .col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight, .col-2.floatRight {
@@ -2125,6 +2123,49 @@ padding: 0;
   }
 }
 
+
+.marginedVertical {
+    margin: 20px 0;
+}
+.marginedHorizontal {
+    margin: 0 20px;
+}
+.marginedLeft {
+    margin: 0 0 0 20px;
+}
+.marginedRight {
+    margin: 0 20px 0 0;
+}
+.marginedTop {
+    margin: 20px 0 0 0;
+}
+.marginedBottom {
+    margin: 0 0 20px 0;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  .marginedVertical {
+      margin: 20px 0;
+  }
+  .marginedHorizontal {
+      margin: 0;
+  }
+  .marginedLeft {
+      margin: 0;
+  }
+  .marginedRight {
+      margin: 0;
+  }
+  .marginedTop {
+      margin: 0;
+  }
+  .marginedBottom {
+      margin: 0;
+  }
+}
+
 /*end spacing*/
 
   /*text overlay */
@@ -2135,8 +2176,7 @@ padding: 0;
 
   .text_overlay {
     position: absolute; 
-     bottom: 0px; 
-     width: 100%; 
+     bottom: 0px;
   }
 
 
@@ -2261,7 +2301,6 @@ button {
   font-weight: 500;
   padding: 10px 20px;
   border: none;
-  width: auto;
 }
 
 button.white {
@@ -2269,15 +2308,18 @@ button.white {
   color: #000000;
 }
 
-button.block {
-  display: block;
-  width: 100%;
+button.tight {
+  width: auto;
+  padding: 10px 0;
 }
 
-button.centered {
-    margin: 20px auto;
-    display: block;
+button.centered{
+  padding: 10px 20px;
+  margin: 0 auto;
+  display: block;
 }
+
+
 
 
 @media only screen and (max-width: 768px) {
@@ -2297,7 +2339,6 @@ button.large {
 }
 
 button.transparent {
-  padding: 20px 0;
   background: none;
 }
 

@@ -281,6 +281,7 @@ Goodlife
 Supernatural
 Anna K
 ____________
+
 ____________
 
 21 07 16
@@ -314,6 +315,74 @@ rows:
 
 
 ARCHIVE:
+
+Summer Packing
+Summer Sandals
+Buy Now Wear Later
+
+Shop the shoot
+Vivetta
+Prefall
+Biggest Reductions (hide)
+
+pandora
+Minna
+Must have Bags
+
+embroidery 
+it bags
+summer jackets
+pop feature
+maryam
+julia - influencer
+swimsuit
+pom pom
+cover up
+Goodlife
+Supernatural
+Anna K
+____________
+
+____________
+
+21 07 16
+
+main: Kiini
+
+
+features:
+
+New Skirts
+Manu
+Top 10 Dresses
+
+LANDING:
+main:	Kiini
+
+side:	
+New Skirts
+Manu
+Top 10 Dresses
+
+
+rows:	
+		Marco
+		Linda Farrow
+		Ace&Jig
+		Most wanted Shoes (hide)
+
+		Hold on to the Heat
+		Jewels
+		MacGraw
+
+
+
+
+ARCHIVE:
+
+Cotton
+Mules
+Roksanda (US)
 
 Summer Packing
 Summer Sandals
