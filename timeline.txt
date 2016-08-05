@@ -345,7 +345,7 @@ ____________
 
 ____________
 
-21 07 16
+28 07 16
 
 main: Kiini
 
@@ -392,6 +392,75 @@ Shop the shoot
 Vivetta
 Prefall
 Biggest Reductions (hide)
+
+pandora
+Minna
+Must have Bags
+
+embroidery 
+it bags
+summer jackets
+pop feature
+maryam
+julia - influencer
+swimsuit
+pom pom
+cover up
+Goodlife
+Supernatural
+Anna K
+________________________
+
+04 08 16
+
+main: Sea NY
+
+
+features:
+
+Jonathan Simkhai
+Summer Jewellery
+Brilliant Basic
+
+LANDING:
+main:	Kiini
+
+side:
+Jonathan Simkhai
+Summer Jewellery
+Brilliant Basic
+
+
+rows:	
+		Kiini
+		New Skirts
+		Manu
+
+		Top 10 Dresses
+		Marco
+		Linda Farrow
+
+
+ARCHIVE:
+Ace&Jig
+Most wanted Shoes
+Summer Sandals
+
+Hold on to the Heat
+Jewels
+MacGraw
+
+Cotton
+Mules
+Roksanda (US)
+
+Summer Packing (hidden)
+Biggest Reductions (hidden)
+Buy Now Wear Later (hidden)
+
+Shop the shoot
+Vivetta
+Prefall
 
 pandora
 Minna
