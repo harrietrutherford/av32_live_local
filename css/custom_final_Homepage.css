@@ -59,19 +59,19 @@ figcaption {
 }
 
 
-.content-spot .owl-next {
+.owl-next {
     background-image: url(http://wpm.ccmp.eu/wpm/679/ContentUploads/img/arrow-carousel-dx.png);
     background-size: 27px;
     background-position: 60%;
   }
 
-.content-spot .owl-prev {
+.owl-prev {
     background-image: url(http://wpm.ccmp.eu/wpm/679/ContentUploads/img/arrow-carousel-dx.png);
     background-size: 27px;
     background-position: 60%;
   }
 
-.content-spot .owl-prev, .content-spot .owl-next {
+.owl-prev, .content-spot .owl-next {
     position: absolute;
     top: 43%;
     height: 40px;
@@ -80,17 +80,57 @@ figcaption {
     opacity: 0.9;
 }
 
-@media only screen and (max-width: 900px) {
-  .content-spot.template-slider .owl-prev, .content-spot .template-slider .owl-next {
-      top: 40%;
-      margin-top: -20px;
-  }
+.owl-prev,
+.owl-next {
+  position: absolute;
+  top: 50%;
+  height: 40px;
+  width: 40px;
+  margin-top: -40px;
+  opacity: 0.9;
 }
 
+.owl-prev {
+  left: 0;
+  text-indent: -5000px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-position: 50% 50%;
+  background-size: 40px;
+  transform: rotate(180deg);
+  overflow: hidden;
+}
+
+.owl-next {
+  right: 0;
+  text-indent: -5000px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-position: 50% 50%;
+  background-size: 40px;
+  overflow: hidden;
+  opacity: 0.9;
+}
+
+.owl-theme .owl-controls {
+  margin: 0;
+}
+
+.owl-theme .owl-controls .owl-page span {
+  width: 10px;
+  height: 10px;
+  margin: 5px 10px;
+  background: #ececec;
+  border: 1px solid #666;
+}
 
 @media only screen and (max-width: 767px) {
   .content-spot.template-slider .text-block.left {
       padding: 20px 10px;
+  }
+
+  .owl-prev, .owl-next {
+      visibility: hidden;
   }
 
 }
@@ -947,11 +987,11 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
 .col-12 {
   width: 100%;
 }
-/*
-.col-2 {
+
+.col-20 {
   width: 20%;
   float: left;
-}*/
+}
 
 .col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight, .col-2.floatRight {
     display: block;
@@ -2175,8 +2215,16 @@ padding: 0;
   }
 
   .text_overlay {
-    position: absolute; 
+    position: absolute;
+    bottom: 30%;
+  }
+
+  .text_overlay.bottom {
      bottom: 0px;
+  }
+
+  .text_overlay.top {
+     top: 0px;
   }
 
 
@@ -2199,7 +2247,19 @@ padding: 0;
   }
 }
 
+/*forced height*/
+.fixedHeight {
+  min-height: 400px;
+  max-height: 500px;
+}
 
+
+@media only screen and (max-width: 768px) {
+  .fixedHeight {
+    min-height: inherit;
+    max-height: inherit;
+  }
+}
   /*text overlay */
 
 
@@ -2214,29 +2274,55 @@ h1, h2, h3, h4, h5, h6 {
   margin: auto;
 }
 
-h1 {
+h1.hp {
   font-size: 45px;
   line-height: 45px;
 }
 
-h2 {
+h2.hp {
   font-size: 30px;
   line-height: 30px;
 }
 
-h3 {
+h3.hp {
   font-size: 24px;
 }
 
-h4 {
+h4.hp {
   font-size: 21px;
 }
 
-h5 {
+h5.hp {
   font-size: 14px;
 }
 
-h6 {
+h6.hp {
+  font-size: 11px;
+}
+
+h1.mag {
+  font-size: 45px;
+  line-height: 45px;
+}
+
+h2.mag {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+h3.mag {
+  font-size: 21px;
+}
+
+h4.mag {
+  font-size: 18px;
+}
+
+h5.mag {
+  font-size: 12px;
+}
+
+h6.mag {
   font-size: 11px;
 }
 
@@ -2244,12 +2330,18 @@ span.shopNow {
   font-family: Arial;
 }
 
+
 .fPoppins {
   font-family: Poppins, Arial;
   font-weight: normal;
 }
 
 .fPlayfair {
+  font-family: Playfair Display, Georgia;
+  font-weight: normal;
+}
+
+h1.fPlayfair, h2.fPlayfair {
   font-family: Playfair Display, Georgia;
   font-weight: normal;
 }
@@ -2310,7 +2402,7 @@ button.white {
 
 button.tight {
   width: auto;
-  padding: 10px 0;
+  padding: 10px;
 }
 
 button.centered{
