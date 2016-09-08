@@ -2252,6 +2252,10 @@ padding: 0;
   min-height: 400px;
   max-height: 500px;
 }
+/*forced height*/
+.fixedHeight100 {
+  height: 99px;
+}
 
 
 @media only screen and (max-width: 768px) {

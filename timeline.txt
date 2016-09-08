@@ -579,14 +579,15 @@ ____________
 
 01 09 16
 
-main: Activewear
+main: Isabel Marant UK
+		Hero shooting
 
 
 features:
 
--dodoBarOr
 -Uniformware
 -No21
+-Vintage Boho (link to an edits, not to a feature)
 
 lifestyle:
 -hot list semptember
@@ -594,13 +595,13 @@ lifestyle:
 -hotels
 
 LANDING:
-main:	Isabel Marant
+main:	Isabel Marant UK
+		Hero shooting
 
 side:
-dodoBarOr
 Uniformware
 No21
-
+activewear
 
 rows:	
 
@@ -608,10 +609,9 @@ rows:
 		Capsule new
 		exclusive edits
 
-		activewear
 		famous girls workout
 		detox - lily simpson
-		resort retreat sport (hidden)
+		resort retreat sport
 
 
 
