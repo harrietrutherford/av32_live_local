@@ -984,6 +984,11 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
   float: left;
 }
 
+.col-10 {
+  width: 80%;
+  float: left;
+}
+
 .col-12 {
   width: 100%;
 }
@@ -993,7 +998,7 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
   float: left;
 }
 
-.col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight, .col-2.floatRight {
+.col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight, .col-20.floatRight {
     display: block;
     float: right;
 }
@@ -2225,6 +2230,10 @@ padding: 0;
 
   .text_overlay.top {
      top: 0px;
+  }
+
+  .text_overlay.right {
+     right: 0px;
   }
 
 
