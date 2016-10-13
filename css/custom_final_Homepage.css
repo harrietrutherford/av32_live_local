@@ -9,6 +9,9 @@ img.Full {
   width: 100%;
 }
 
+/*fonts*/
+
+
 .content-spot.fixed-width, .content.fixed-width {
   overflow: hidden;
 }
@@ -141,7 +144,7 @@ figcaption {
 }
 
 .greyBackground {
-  background-color: #dddddd;
+  background-color: #f8f6f7;
 }
 
 .buttonHomepage {
@@ -418,9 +421,6 @@ span.shopnow {
   font-size: 12px;
 }
 
-.content-spot .magazine-tile {
-  height: 420px;
-}
 
 .content-spot .magazine-tile .read_more-link {
     font-size: 14px;
@@ -2139,28 +2139,28 @@ padding: 0;
 /*spacing*/
 
 .padded {
-    padding: 20px;
+    padding: 20px !important;
 }
 .padded40 {
-    padding: 40px;
+    padding: 40px !important;
 }
 .paddedVertical {
-    padding: 20px 0;
+    padding: 20px 0 !important;
 }
 .paddedHorizontal {
-    padding: 0 20px;
+    padding: 0 20px !important;
 }
 .paddedLeft {
-    padding: 0 0 0 20px;
+    padding: 0 0 0 20px !important;
 }
 .paddedRight {
-    padding: 0 20px 0 0;
+    padding: 0 20px 0 0 !important;
 }
 .paddedTop {
-    padding: 20px 0 0 0;
+    padding: 20px 0 0 0 !important;
 }
 .paddedBottom {
-    padding: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
 }
 
 
@@ -2367,6 +2367,21 @@ span.shopNow {
   font-family: Arial;
 }
 
+
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500|Karla:400,700|Inknut+Antiqua:300,700|Dawning+of+a+New+Day';
+
+.fKarla {
+  font-family: 'Karla', sans-serif;
+}
+.fInknut {
+  font-family: 'Inknut Antiqua', serif;
+}
+.fCormo {
+  font-family: 'Cormorant Garamond', serif;
+}
+.fDawning {
+  font-family: 'Dawning of a New Day', cursive;
+}
 
 .fPoppins {
   font-family: Poppins, Arial;

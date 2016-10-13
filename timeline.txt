@@ -1012,8 +1012,9 @@ Supernatural
 Anna K
 ____________
 
+____________
 
-22 09 16
+29 09 16
 
 main: Paris fashion week
 
@@ -1034,7 +1035,7 @@ main:	Paris fashion week
 
 side:	
 		la contrie
-		-knitwear (click thru)
+		paris city guide
 		-dodo bar or
 
 
@@ -1042,32 +1043,163 @@ side:
 rows:	
 		arbesser
 		milan city guide
-		
 		fanmon
+
 		embellished
 		maxi skirts
-
 		preen
-		lnd tribes
-		lnd city guide
-		details
-		london fw
-
-		ny fashion week
-		ny jonathan simkhai
-		ny city guide (hide)
-		ny muses
-
-		-Jumpsuit
-		-lily kamper
-		-hot list semptember
-
-		-addictive daughter (hide)
-		-hotels (hide)
 
 
 
 ARCHIVE:
+
+lnd tribes
+lnd city guide (hide)
+details
+london fw
+
+ny fashion week
+ny jonathan simkhai
+ny city guide (hide)
+ny muses
+
+-Jumpsuit
+-lily kamper
+-hot list semptember
+
+-addictive daughter (hide)
+-hotels (hide)
+
+Jumpsuit
+lily kamper
+addictive daughter
+hotels (hide)
+
+Uniformware
+No21
+saks pott
+
+Capsule new
+exclusive edits
+activewear
+
+famous girls workout
+detox - lily simpson
+resort retreat sport
+
+bold blouses
+star sneakers
+what designers take on vacation
+
+DESIGNER FOCUS: VILSHENKO
+SUMMER NIGHTS
+THE MIDI MAKEOVER
+
+SEA NY
+SHINE ON
+INSIDER ADDRESS BOOK
+
+kiini
+new skirts
+manu atelier
+
+summerdresses
+marco de vincenzo
+eyespy
+
+Ace&Jig
+Most wanted Shoes
+Summer Sandals
+
+Hold on to the Heat
+Jewels
+MacGraw
+
+Cotton
+Mules
+Roksanda (US)
+
+Summer Packing (hidden)
+Biggest Reductions (hidden)
+Buy Now Wear Later (hidden)
+
+Shop the shoot
+Vivetta
+Prefall
+
+pandora
+Minna
+Must have Bags
+
+embroidery 
+it bags
+summer jackets
+pop feature
+maryam
+julia - influencer
+swimsuit
+pom pom
+cover up
+Goodlife
+Supernatural
+Anna K
+________________________
+
+________________________
+
+06 10 16
+
+main: New look lace
+
+
+features:
+	-shoulder bag
+	-strapless
+	-names to know
+
+LANDING:
+main:	New look lace
+
+side:	
+
+		-shoulder bag
+		-strapless
+		-names to know
+
+
+rows:	
+		paris fw
+		la contrie
+		paris city guide (hide)
+		dodo bar or
+
+		arbesser
+		milan city guide
+		fanmon
+
+ARCHIVE:
+
+embellished
+maxi skirts
+preen
+
+lnd tribes
+lnd city guide (hide)
+details
+london fw
+
+ny fashion week
+ny jonathan simkhai
+ny city guide (hide)
+ny muses
+
+-Jumpsuit
+-lily kamper
+-hot list semptember
+
+-addictive daughter (hide)
+-hotels (hide)
+
 Jumpsuit
 lily kamper
 addictive daughter
