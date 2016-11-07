@@ -631,6 +631,14 @@ p.article-link {
 /*end magazine landing page */
 
 
+/*archive*/
+.archive_tile {
+  margin: 0 2% 0 0;
+  box-sizing: border-box;
+  width: 24%;
+  position: relative;
+}
+/*end archive*/
 
 
 /*general article*/
@@ -1005,12 +1013,12 @@ h1.higherLineHeight, h2.higherLineHeight, h3.higherLineHeight, h4.higherLineHeig
 }
 
 
-.col-9.floatRight, .col-8.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight, .col-20.floatRight {
+.col-10.floatRight, .col-9.floatRight, .col-8.floatRight, .col-7.floatRight, .col-6.floatRight, .col-4.floatRight, .col-3.floatRight, .col-20.floatRight {
     display: block;
     float: right;
 }
 
-.col-9.centered, .col-8.centered, .col-6.centered, .col-4.centered, .col-3.centered, .col-2.centered  {
+.col-10.centered, .col-9.centered, .col-8.centered, .col-7.centered, .col-6.centered, .col-4.centered, .col-3.centered, .col-2.centered  {
     display: block;
     margin: 0 auto;
     float: none;
@@ -2259,6 +2267,25 @@ padding: 0;
   .text_overlay.right {
      right: 0px;
   }
+
+  .graytorgb img {
+    -webkit-filter: grayscale(100%) 
+            brightness(100%)
+            contrast(100%);
+    filter: grayscale(100%) 
+            brightness(100%)
+            contrast(100%);
+    
+    transition: filter 0.3s, box-shadow 0.3s;
+    -webkit-transition: filter 0.3s, -webkit-filter 0.3s, box-shadow 0.3s;
+  }
+
+  .graytorgb:hover img, 
+  .graytorgb:focus img {
+    -webkit-filter: none;
+    filter: none;
+  }
+
 
 .grayout {
     opacity: 1; /* Real browsers */

@@ -1406,7 +1406,7 @@ _____________
 _______________________
 
 
-13 10 16
+20 10 16
 
 main: Bloomsbury
 
@@ -1414,7 +1414,7 @@ main: Bloomsbury
 features:
 	-natasha zinco
 	-classic bags
-	-ankleboots
+	-MASTER THE MODERN MINI
 
 
 LANDING:
@@ -1424,7 +1424,7 @@ side:
 
 	-natasha zinco
 	-classic bags
-	-ankleboots
+	-MASTER THE MODERN MINI
 
 rows:	
 		highneck
@@ -1539,3 +1539,190 @@ Goodlife
 Supernatural
 Anna K
 ____________
+
+_______________________
+27 10 16
+
+main: KOCHÉ AND Y/PROJECT
+
+
+features:
+	-pandora x hunza-g
+	-coat statement
+	-stripes hype
+
+
+LANDING:
+main:	KOCHÉ AND Y/PROJECT
+
+side:	
+	-pandora x hunza-g
+	-coat statement
+	-stripes hype
+
+rows:	
+		bloomsbury
+		natasha zinco (hide)
+		classic bags
+		MASTER THE MODERN MINI
+
+		highneck
+		hiddengems
+		ankleboots
+
+	
+
+ARCHIVE:
+names to know
+shoulder bag
+strapless
+
+dodo bar or
+paris fw
+la contrie	
+
+paris city guide (hide)
+
+arbesser
+milan city guide
+fanmon
+
+embellished
+maxi skirts
+preen
+
+lnd tribes
+lnd city guide (hide)
+details
+london fw
+
+ny fashion week
+ny jonathan simkhai
+ny city guide (hide)
+ny muses
+
+-Jumpsuit
+-lily kamper
+-hot list semptember
+
+-addictive daughter (hide)
+-hotels (hide)
+
+Uniformware
+No21
+saks pott
+
+Capsule new
+exclusive edits
+activewear
+
+famous girls workout (hidden)
+detox - lily simpson (hidden)
+resort retreat sport (hidden)
+
+bold blouses
+star sneakers
+what designers take on vacation
+
+DESIGNER FOCUS: VILSHENKO
+SUMMER NIGHTS
+THE MIDI MAKEOVER
+
+SEA NY
+SHINE ON
+INSIDER ADDRESS BOOK
+
+kiini
+new skirts
+manu atelier
+
+summerdresses
+marco de vincenzo
+eyespy
+
+Ace&Jig
+Most wanted Shoes
+Summer Sandals
+
+Hold on to the Heat
+Jewels
+MacGraw
+
+Cotton
+Mules
+Roksanda (US)
+
+Summer Packing (hidden)
+Biggest Reductions (hidden)
+Buy Now Wear Later (hidden)
+
+Shop the shoot
+Vivetta
+Prefall
+
+pandora
+Minna
+Must have Bags
+
+embroidery 
+it bags
+summer jackets
+pop feature
+maryam
+julia - influencer
+swimsuit
+pom pom
+cover up
+Goodlife
+Supernatural
+Anna K
+___________________________________
+
+
+___________________________________
+
+03 11 16
+
+main: HAIDER ACKERMANN
+
+
+features:
+	-footwear
+	-widetrousers
+	-koche y project
+
+
+LANDING:
+main:	HAIDER ACKERMANN
+
+side:	
+	-footwear
+	-widetrousers
+	-koche y project
+
+
+rows:
+		pandora x hunza-g
+		coat statement
+		stripes hype
+		bloomsbury
+
+		classic bags
+		MASTER THE MODERN MINI
+		highneck
+		hiddengems
+		ankleboots (hide)
+		natasha zinco (hide)
+	
+
+ARCHIVE:
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide
