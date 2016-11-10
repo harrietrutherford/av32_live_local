@@ -1726,3 +1726,58 @@ dodo bar or
 paris city guide (hide)
 arbesser
 milan city guide
+
+___________________________________
+
+10 11 16
+
+main: PETER PILOTTO
+
+
+features:
+	-squareroots
+	-ski style
+	-24hrs tailoring
+
+
+LANDING:
+main:	PETER PILOTTO
+
+side:	
+	-squareroots
+	-ski style
+	-24hrs tailoring
+	-event dressing (hidden)
+
+
+rows:
+		haider ackermann
+		footwear
+		widetrousers
+		koche y project
+
+		pandora x hunza-g
+		coat statement
+		stripes hype
+		bloomsbury
+	
+
+ARCHIVE:
+
+classic bags
+MASTER THE MODERN MINI
+highneck
+hiddengems
+ankleboots (hide)
+natasha zinco (hide)
+
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide
