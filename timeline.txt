@@ -1781,3 +1781,190 @@ dodo bar or
 paris city guide (hide)
 arbesser
 milan city guide
+
+___________________________________
+
+17 11 16
+
+main: VELVET
+
+
+features:
+	-autumn
+	-party dresses
+	-roksanda
+
+
+LANDING:
+main:	VELVET
+
+side:	
+	-autumn
+	-party dresses
+	-roksanda
+
+
+rows:
+		peter pilotto
+		squareroots
+		ski style
+		24hrs tailoring
+		event dressing (hidden)
+		
+		haider ackermann
+		footwear
+		widetrousers
+		koche y project
+	
+
+ARCHIVE:
+
+pandora x hunza-g
+coat statement
+stripes hype
+bloomsbury
+
+classic bags
+MASTER THE MODERN MINI
+highneck
+hiddengems
+ankleboots (hide)
+natasha zinco (hide)
+
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide
+_________________
+
+_________________
+
+24 11 16
+
+main: cyber weekend
+
+
+features:
+	-winter coats
+	-accessory party
+	-jumpsuit
+
+
+LANDING:
+main:	VELVET
+
+side:	
+	winter coats
+	accessory party
+
+
+rows:
+		jumpsuit
+		autumn
+		party dresses
+		roksanda
+
+		peter pilotto
+		squareroots
+		ski style
+		24hrs tailoring
+		
+
+ARCHIVE:
+haider ackermann
+footwear
+widetrousers
+koche y project
+
+pandora x hunza-g
+coat statement
+stripes hype
+bloomsbury
+
+classic bags
+MASTER THE MODERN MINI
+highneck
+hiddengems
+ankleboots (hide)
+natasha zinco (hide)
+
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide
+
+_________________
+
+01 12 16
+
+main: gowns
+
+
+features:
+	-ISABEL MARANT ÉTOILE (click through)
+	-ROBERTA’S TOP TIPS 
+	-PETER PILOTTO PS17 (click through)
+
+
+LANDING:
+main:	gowns
+
+side:
+	robertas pick
+	VELVET
+	winter coats
+	accessory party (hide)
+
+
+rows:
+		jumpsuit
+		autumn
+		party dresses
+		roksanda
+
+		peter pilotto
+		squareroots
+		ski style
+		24hrs tailoring
+		
+
+ARCHIVE:
+haider ackermann
+footwear
+widetrousers
+koche y project
+
+pandora x hunza-g
+coat statement
+stripes hype
+bloomsbury
+
+classic bags
+MASTER THE MODERN MINI
+highneck
+hiddengems
+ankleboots (hide)
+natasha zinco (hide)
+
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide

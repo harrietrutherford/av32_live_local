@@ -1,6 +1,5 @@
 /*GAIA'S*/
 
-
 body {
   color: #000000;
 }
@@ -2381,8 +2380,8 @@ h1.hp {
 }
 
 h1.SALE {
-  font-size: 150px;
-  line-height: 150px;
+  font-size: 200px;
+  line-height: 200px;
 }
 
 h2.hp {
@@ -2472,18 +2471,23 @@ span.shopNow {
   font-weight: normal;
 }
 
-h1.fPlayfair, h2.fPlayfair {
-  font-family: Playfair Display, Georgia;
+.fKarla {
+  font-family: 'Karla', serif;
   font-weight: normal;
 }
 
-h1.fPoppins, h2.fPoppins {
-  font-family: Poppins, Arial;
+.fInknut {
+  font-family: 'Inknut Antiqua', serif;
   font-weight: normal;
 }
 
-h1.fArial, h2.fArial {
-  font-family: Arial;
+.fCormorant {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: normal;
+}
+
+.fDawning {
+  font-family: 'Dawning of a New Day', cursive;
   font-weight: normal;
 }
 
@@ -2494,6 +2498,41 @@ h1.fArial, h2.fArial {
 
 .fGeorgia {
   font-family: Georgia;
+  font-weight: normal;
+}
+
+h1.fPlayfair, h2.fPlayfair {
+  font-family: Playfair Display, Georgia;
+  font-weight: normal;
+}
+
+h1.fPoppins, h2.fPoppins {
+  font-family: Poppins, Arial;
+  font-weight: normal;
+}
+
+h1.fKarla, h2.fKarla {
+  font-family: 'Karla', Georgia;
+  font-weight: normal;
+}
+
+h1.fInknut, h2.fInknut {
+  font-family: 'Inknut Antiqua', serif;
+  font-weight: normal;
+}
+
+h1.fCormorant, h2.fCormorant {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: normal;
+}
+
+h1.fDawning, h2.fDawning {
+  font-family: 'Dawning of a New Day', cursive;
+  font-weight: normal;
+}
+
+h1.fArial, h2.fArial {
+  font-family: Arial;
   font-weight: normal;
 }
 
