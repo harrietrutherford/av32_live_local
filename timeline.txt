@@ -1968,3 +1968,72 @@ dodo bar or
 paris city guide (hide)
 arbesser
 milan city guide
+
+_________________
+
+08 12 16
+
+main: prespring 17
+
+
+features:
+	layering
+	resort swimwear
+	alternative partywear
+
+
+LANDING:
+main:	prespring 17
+
+side:
+	layering
+	resort swimwear
+	alternative partywear
+
+rows:	
+		gowns
+		robertas pick
+		VELVET
+		winter coats
+		accessory party (hide)
+
+		jumpsuit
+		autumn
+		party dresses
+		roksanda
+		
+
+ARCHIVE:
+
+peter pilotto
+squareroots
+ski style
+24hrs tailoring
+
+haider ackermann
+footwear
+widetrousers
+koche y project
+
+pandora x hunza-g
+coat statement
+stripes hype
+bloomsbury
+
+classic bags
+MASTER THE MODERN MINI
+highneck
+hiddengems
+ankleboots (hide)
+natasha zinco (hide)
+
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide
