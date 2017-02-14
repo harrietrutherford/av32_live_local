@@ -806,6 +806,10 @@ h1.title.shooting {
   }
 }
 
+.redSale {
+  color: #C50015;
+}
+
 /*IN CASE OF SALES*/
 
 
@@ -2252,11 +2256,15 @@ padding: 0;
 
   .text_overlay {
     position: absolute;
-    bottom: 30%;
+    bottom: 25%;
   }
 
   .text_overlay.bottom {
      bottom: 0px;
+  }
+
+  .text_overlay.half {
+     bottom: 50%;
   }
 
   .text_overlay.top {
@@ -2313,7 +2321,7 @@ padding: 0;
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 769px) {
   .showMobile {
     display: none;
   }
@@ -2412,7 +2420,6 @@ h1.mag {
 
 h2.mag {
   font-size: 30px;
-  line-height: 30px;
 }
 
 h2.mag.shooting {
@@ -2450,6 +2457,7 @@ span.shopNow {
 
 .fKarla {
   font-family: 'Karla', sans-serif;
+  font-weight: initial;
 }
 .fInknut {
   font-family: 'Inknut Antiqua', serif;
@@ -2472,8 +2480,8 @@ span.shopNow {
 }
 
 .fKarla {
-  font-family: 'Karla', serif;
-  font-weight: normal;
+  font-family: 'Karla', sans-serif;
+  font-weight: initial;
 }
 
 .fInknut {
@@ -2483,6 +2491,10 @@ span.shopNow {
 
 .fCormorant {
   font-family: 'Cormorant Garamond', serif;
+  font-weight: normal;
+}
+.fCormorant.italic {
+  font-family: 'Cormorant Upright', serif;
   font-weight: normal;
 }
 
@@ -2513,7 +2525,6 @@ h1.fPoppins, h2.fPoppins {
 
 h1.fKarla, h2.fKarla {
   font-family: 'Karla', Georgia;
-  font-weight: normal;
 }
 
 h1.fInknut, h2.fInknut {
@@ -2526,9 +2537,17 @@ h1.fCormorant, h2.fCormorant {
   font-weight: normal;
 }
 
+h1.fCormorant.italic, h2.fCormorant.italic {
+  font-family: 'Cormorant Upright', serif;
+  font-weight: normal;
+}
+
 h1.fDawning, h2.fDawning {
   font-family: 'Dawning of a New Day', cursive;
   font-weight: normal;
+}
+h2.fDawning {
+  line-height: 55px;
 }
 
 h1.fArial, h2.fArial {

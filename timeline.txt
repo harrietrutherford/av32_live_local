@@ -2037,3 +2037,185 @@ dodo bar or
 paris city guide (hide)
 arbesser
 milan city guide
+_______________
+_________________
+
+12 01 17
+
+main: rochas
+
+features:
+	shirting
+	roberta's closet
+	liza marie fernandez
+
+
+LANDING:
+main:	rochas
+
+side:
+	layering
+	resort swimwear
+	alternative partywear
+
+rows:	
+	prespring 17
+	layering
+	resort swimwear
+	alternative partywear
+
+		gowns
+		robertas pick
+		VELVET
+		winter coats
+		accessory party (hide)
+		
+
+ARCHIVE:
+
+jumpsuit
+autumn
+party dresses
+roksanda
+
+peter pilotto
+squareroots
+ski style
+24hrs tailoring
+
+haider ackermann
+footwear
+widetrousers
+koche y project
+
+pandora x hunza-g
+coat statement
+stripes hype
+bloomsbury
+
+classic bags
+MASTER THE MODERN MINI
+highneck
+hiddengems
+ankleboots (hide)
+natasha zinco (hide)
+
+names to know
+shoulder bag
+strapless
+paris fw
+
+la contrie	
+dodo bar or
+paris city guide (hide)
+arbesser
+milan city guide
+
+_________________
+
+26 01 17
+
+main: isabel marant uk/ roksanda us
+
+features:
+
+	downunder 
+	spring sneakers (hide)
+	beltup 
+	coldweather accessories
+
+
+
+LANDING:
+main:	isabel marant uk
+
+side:
+	downunder 
+	spring sneakers
+	beltup 
+
+
+
+rows:
+	coldweather accessories
+	rochas
+	Dresses 2017
+	Sean ny 2017
+
+	holiday heroes
+	shirting
+	roberta's closet
+	liza marie fernandez
+
+
+		
+ARCHIVE:
+prespring
+layering
+resort swimwear
+alternative partywear
+
+gowns
+robertas pick
+VELVET
+winter coats
+accessory party (hide)
+
+
+_________________
+
+26 01 17
+
+main: NY fashion week
+
+features:
+
+	bootcut
+	jumpsuits 2017
+	minibags
+
+
+
+LANDING:
+main:	NY fashion week
+
+side:
+	bootcut
+	jumpsuits 2017
+	minibags
+
+
+rows:
+	isabel marant uk
+	downunder 
+	spring sneakers
+	beltup 
+
+	coldweather accessories
+	rochas
+	Dresses 2017
+	Sea ny 2017
+
+
+		
+ARCHIVE:
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+gowns
+robertas pick
+VELVET
+winter coats
+accessory party (hide)
+
+
+
+

@@ -1,0 +1,91 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-Light
+FamilyName:Cormorant
+StyleName:Light
+MenuName:Cormorant Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Cormorant-Light
+WritingScript:Roman
+OutlineFileName:\Cormorant-Light.ttf
+DataFormat:sfntData
+FileLength:424444
+FileModTime:1465948800
+NameArray:0,Mac,4,Cormorant Light
+NameArray:0,Win,1,Cormorant Light
+NameArray:0,Win,16,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Karla-Bold
+FamilyName:Karla
+StyleName:Bold
+MenuName:Karla
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Karla Bold
+WritingScript:Roman
+OutlineFileName:\Karla-Bold.ttf
+DataFormat:sfntData
+FileLength:17868
+FileModTime:1470724750
+NameArray:0,Mac,4,Karla Bold
+NameArray:0,Win,1,Karla
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Karla-Regular
+FamilyName:Karla
+StyleName:Regular
+MenuName:Karla
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Karla
+WritingScript:Roman
+OutlineFileName:\Karla-Regular.ttf
+DataFormat:sfntData
+FileLength:16816
+FileModTime:1470724750
+NameArray:0,Mac,4,Karla
+NameArray:0,Win,1,Karla
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1394810876
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

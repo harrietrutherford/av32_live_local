@@ -1,0 +1,110 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-Medium
+FamilyName:Cormorant
+StyleName:Medium
+MenuName:Cormorant Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Cormorant-Medium
+WritingScript:Roman
+OutlineFileName:\Cormorant-Medium.ttf
+DataFormat:sfntData
+FileLength:425032
+FileModTime:1465948800
+NameArray:0,Mac,4,Cormorant Medium
+NameArray:0,Win,1,Cormorant Medium
+NameArray:0,Win,16,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Karla-Bold
+FamilyName:Karla
+StyleName:Bold
+MenuName:Karla
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Karla Bold
+WritingScript:Roman
+OutlineFileName:\Karla-Bold.ttf
+DataFormat:sfntData
+FileLength:17868
+FileModTime:1470724750
+NameArray:0,Mac,4,Karla Bold
+NameArray:0,Win,1,Karla
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LemonTuesday
+FamilyName:Lemon Tuesday
+StyleName:Regular
+MenuName:Lemon Tuesday
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lemon Tuesday
+WritingScript:Roman
+OutlineFileName:\Lemon Tuesday.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:184672
+FileModTime:1475597694
+NameArray:0,Mac,4,Lemon Tuesday
+NameArray:0,Win,1,Lemon Tuesday
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Regular
+FamilyName:Poppins
+StyleName:Regular
+MenuName:Poppins
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Poppins
+WritingScript:Roman
+OutlineFileName:\Poppins-Regular.ttf
+DataFormat:sfntData
+FileLength:256920
+FileModTime:1439315457
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBold
+FamilyName:Poppins
+StyleName:SemiBold
+MenuName:Poppins SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Poppins SemiBold
+WritingScript:Roman
+OutlineFileName:\Poppins-SemiBold.ttf
+DataFormat:sfntData
+FileLength:279164
+FileModTime:1441050280
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
