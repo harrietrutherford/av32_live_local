@@ -2164,7 +2164,7 @@ accessory party (hide)
 
 _________________
 
-26 01 17
+16 02 17
 
 main: NY fashion week
 
@@ -2215,7 +2215,274 @@ robertas pick
 VELVET
 winter coats
 accessory party (hide)
+_________________
 
 
+23 02 17
+
+main: Milan fashion week
+
+features:
+
+	dress your neck (hide)
+	tickled pink (hide)
+
+	jewellery 2017
+	roberta fashion week
+	streetstyle
+	checks (hide) 
+
+
+LANDING:
+main:	London fashion week
+
+side:
+		jewellery 2017
+		roberta fashion week
+		streetstyle
+		checks (hide)
+
+
+rows:
+
+	NY fashion week
+	bootcut
+	jumpsuits 2017
+	minibags
+
+	isabel marant uk
+	downunder 
+	spring sneakers
+	beltup 
+
+
+		
+ARCHIVE:
+
+coldweather accessories
+rochas
+Dresses 2017
+Sea ny 2017
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+gowns
+robertas pick
+VELVET
+winter coats
+accessory party (hide)
+
+
+
+_________________
+
+
+16 02 17
+
+main: London fashion week
+
+features:
+
+	jewellery 2017
+	roberta fashion week
+	streetstyle
+	checks (hide) 
+
+
+LANDING:
+main:	London fashion week
+
+side:
+		jewellery 2017
+		roberta fashion week
+		streetstyle
+		checks (hide)
+
+
+rows:
+
+	NY fashion week
+	bootcut
+	jumpsuits 2017
+	minibags
+
+	isabel marant uk
+	downunder 
+	spring sneakers
+	beltup 
+
+
+		
+ARCHIVE:
+
+coldweather accessories
+rochas
+Dresses 2017
+Sea ny 2017
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+gowns
+robertas pick
+VELVET
+winter coats
+accessory party (hide)
+
+
+
+_________________
+
+
+23 02 17
+
+main: Milan fashion week
+
+features:
+
+	tickled pink
+	dress your neck
+	checks
+
+	london fashion week
+	jewellery 2017
+	roberta fashion week
+	streetstyle
+
+
+
+LANDING:
+main:	Milan fashion week
+
+side:
+		tickled pink
+		dress your neck
+		checks
+
+
+
+
+rows:
+	london FW
+	jewellery 2017
+	roberta fashion week
+	streetstyle
+
+	NY fashion week
+	bootcut
+	jumpsuits 2017
+	minibags
+
+		
+ARCHIVE:
+
+
+isabel marant uk
+downunder 
+spring sneakers
+beltup 
+
+coldweather accessories
+rochas
+Dresses 2017
+Sea ny 2017
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+_________________
+
+_________________
+
+
+02 03 17
+
+main: Paris fashion week
+
+features:
+	details development (hide)
+	Mules
+	5 mins with Y Project
+	LBD
+
+	Milan fashion week
+	tickled pink
+	dress your neck
+	checks
+
+
+LANDING:
+main:	Paris fashion week
+
+side:
+		details development (hide)
+		Mules
+		5 mins with Y Project
+		LBD
+
+
+rows:
+
+	Milan FW
+	tickled pink
+	dress your neck
+	checks
+
+	london FW
+	jewellery 2017
+	roberta fashion week
+	streetstyle
+
+		
+ARCHIVE:
+
+NY fashion week
+bootcut
+jumpsuits 2017
+minibags
+
+isabel marant uk
+downunder 
+spring sneakers
+beltup 
+
+coldweather accessories
+rochas
+Dresses 2017
+Sea ny 2017
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+_________________
 
 
