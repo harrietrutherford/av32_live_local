@@ -1,0 +1,634 @@
+<main class="wrapper full-width">
+  <div class="full-width">
+
+    <!-- TITLE -->
+
+    <div class="col-8 mob-col-12 centered flex-container elementsAlignedCenter">
+      <div class="col-5 mob-col-12">
+        <h2 class="mag shooting fCormorant rightAlignedText paddedRight"><a href="$url('Search-Show','cgid','17')$">SKIRT SPOTLIGHT</a>
+        </h2>
+      </div>
+
+
+      <div class="col-10 mob-col-12 paddedHorizontal">
+        <h4 class="mag fCormorant">Deal or no deal? Designers are now offering two-for-one skirts by cleverly combining your favourite fits and features to create sophisticated new styles. We say deal because these new season hybrids are the silhouettes we never knew we needed until now. Here’s how we’re styling them.</h4>
+
+
+        <h5 class="mag fPoppins paddedTop"><a href="$url('Search-Show','cgid','17')$"><strong>SHOP NOW &gt;</strong></a>
+        </h5>
+      </div>
+    </div>
+    <!-- END TITLE -->
+
+
+    <div class="spacer90px hiddenMobile">&nbsp;</div>
+
+
+    <div class="col-12 tab-col-12 mob-col-12 owl-carousel-1-stop hero">
+
+      <div class="slide">
+        <!-- 1 -->
+
+
+        <div class="col-10 mob-col-12 centered flex-container elementsAlignedCenter">
+          <div class="col-5 mob-col-12">
+            <a href="$url('Product-Show','pid','MAT00316040008')$"><img alt="" class="col-12" src="images/magazine/march17/SkirtsSpotlight_Feature_Image1.jpg?$staticlink$"></a>
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Search-Show','cgid','MAT003')$">MATICEVSKI</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','MAT00316040008')$">Embroidered Sudden Pencil Skirt EXCLUSIVE</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','MAT00316040008')$">SHOP NOW &gt;</a>
+            </h5>
+          </div>
+
+
+          <div class="col-7 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <h2 class="mag fCormorant centeredText">THE<br>
+              LONGLINE PENCIL</h2>
+
+
+              <div class="spacer20px">
+                &nbsp;
+              </div>
+
+
+              <h4 class="mag fCormorant centeredText">Pencil skirts are traditionally knee length so extending a few inches lower only amplifies the figure-streamlining effect. Maticevski’s has wings too to attract even more admiring eyes.</h4>
+
+
+              <h5 class="mag fPoppins paddedTop centeredText"><a href="$url('Search-Show','cgid','17')$"><strong>SHOP NOW &gt;</strong></a>
+              </h5>
+
+
+              <div class="spacer30px">
+                &nbsp;
+              </div>
+
+
+              <div class="template-product-carousel col-7 centered mob-col-12">
+                <div class="col-12 mob-col-12 owl-carousel owl-carousel-1">
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','MAT00316040008')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw1ba0c580/MAT00316040008_1.jpg" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','MAT003')$">MATICEVSKI</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','MAT00316040008')$">Black Embroidered Sudden Pencil Skirt</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','MAT00316040008')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','RAC00116040557')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw23cadd5a/RAC00116040557_1.jpg"></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','RAC001')$">RACHEL COMEY</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','RAC00116040557')$">Black Frill Peplum Frida Jacket</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','RAC00116040557')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','NUM00116040049')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw8ccb0614/NUM00116040049_1.jpg" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','NUM001')$">NO21</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','NUM00116040049')$">Nude Knotted Borsa Mini Bag</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','NUM00116040049')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','SUN00317010626')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwd136d710/SUN00317010626_1.jpg"></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','SUN003')$">SUNDAY SOMEWHERE</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','SUN00317010626')$">Black Lily Butterfly Sunglasses</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','SUN00317010626')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- 1 -->
+      </div>
+
+
+      <div class="slide">
+        <!-- 2 -->
+
+
+        <div class="col-12 mob-col-12 flex-container elementsAlignedCenter">
+          <div class="col-4 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <div class="spacer30px">
+                &nbsp;
+              </div>
+
+
+              <div class="template-product-carousel col-7 centered mob-col-12">
+                <div class="col-12 mob-col-12 owl-carousel owl-carousel-1">
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','SAK00116040839')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw8bbc2352/SAK00116040839_1.jpg" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','SAK001')$">SAKS POTTS</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','SAK00116040839')$">Multi Silk Radish Floral Wrap Skirt</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','SAK00116040839')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','SUN00316020681')$"><img alt="Image Description" src="http://sits-pod37.demandware.net/dw/image/v2/AAZX_STG/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw7a069173/SUN00316020681_1.jpg"></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','SUN003')$">SUNDAY SOMEWHERE</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','SUN00316020681')$">White Laura Cat Eye Sunglasses</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','SUN00316020681')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','ROC00216040623')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwead9a1f4/ROC00216040623_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','ROC002')$">ROCHAS</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','ROC00216040623')$">White Perforated 'R' T-Shirt</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','ROC00216040623')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','PRO00116040199')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw84249d24/PRO00116040199_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','PRO001')$">PROENZA SCHOULER</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','PRO00116040199')$">Black Leather Pointed Eyelet Mules</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','PRO00116040199')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-4 mob-col-12">
+            <a href="$url('Product-Show','pid','SAK00116040839')$"><img alt="" class="col-12" src="images/magazine/march17/SkirtsSpotlight_Feature_Image2.jpg?$staticlink$"></a>
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Search-Show','cgid','SAK001')$">SAKS POTTS</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','SAK00116040839')$">Silk Radish Floral Wrap Skirt EXCLUSIVE</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','SAK00116040839')$">SHOP NOW &gt;</a>
+            </h5>
+          </div>
+
+
+          <div class="col-4 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <h2 class="mag fCormorant centeredText"><a href="$url('Search-Show','cgid','17')$">THE<br>
+              ASSYMETRIC MIDI</a>
+              </h2>
+
+
+              <div class="spacer20px">
+                &nbsp;
+              </div>
+
+
+              <h4 class="mag fCormorant centeredText">An assymetric hem refreshes the much-loved midi without compromising its figure-fixing qualities. This spirited take by buzzy Danish brand Saks Potts shows effortless<br>
+              style and personality.</h4>
+
+
+              <h5 class="mag fPoppins paddedTop centeredText"><a href="$url('Search-Show','cgid','17')$"><strong>SHOP NOW &gt;</strong></a>
+              </h5>
+            </div>
+          </div>
+        </div>
+        <!-- 2 -->
+      </div>
+
+
+      <div class="slide">
+        <!-- 3 -->
+
+
+        <div class="col-10 mob-col-12 centered flex-container elementsAlignedCenter">
+          <div class="col-7 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <h2 class="mag fCormorant centeredText"><a href="$url('Search-Show','cgid','17')$">THE<br>
+              FRINGED MIDI</a>
+              </h2>
+
+
+              <div class="spacer20px">
+                &nbsp;
+              </div>
+
+
+              <h4 class="mag fCormorant centeredText">Marco de Vincenzo proves that legs can be showcased elegantly by slitting his sleek skirt into thick, colourful strands. Every movement allows a head-turning flash of skin.</h4>
+
+
+              <h5 class="mag fPoppins paddedTop centeredText"><a href="$url('Search-Show','cgid','17')$"><strong>SHOP NOW &gt;</strong></a>
+              </h5>
+
+
+              <div class="spacer30px">
+                &nbsp;
+              </div>
+
+
+              <div class="template-product-carousel col-7 centered mob-col-12">
+                <div class="col-12 mob-col-12 owl-carousel owl-carousel-1">
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','MAR01116040483')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw9451f53b/MAR01116040483_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','MAR011')$">MARCO DE VINCENZO</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','MAR01116040483')$">Green Stripe Tape Fringed Skirt</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','MAR01116040483')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','RUI00116040879')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwef03bc05/RUI00116040879_1.jpg?sw=1000&sh=1300&sm=fit"></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','RUI001')$">RUIFIER</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','RUI00116040879')$">Gold Plated Wicked Necklace</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','RUI00116040879')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','SON00116040687')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwe3b2ace3/SON00116040687_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','SON001')$">SONIA RYKIEL</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','SON00116040687')$">Indigo Textured Denim Boyfriend Coat</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','SON00116040687')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','NUM00116040053')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw91c74837/NUM00116040053_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','NUM001')$">NO21</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','NUM00116040053')$">Red Leather Bow Closed Toe Slides</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','NUM00116040053')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-5 mob-col-12">
+            <a href="$url('Product-Show','pid','MAR01116040483')$"><img alt="" class="col-12" src="images/magazine/march17/SkirtsSpotlight_Feature_Image3.jpg?$staticlink$"></a>
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Search-Show','cgid','MAR011')$">MARCO DE VINCENZO</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','MAR01116040483')$">Green Stripe Tape Fringed Skirt</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Product-Show','pid','MAR01116040483')$">SHOP NOW &gt;</a>
+            </h5>
+          </div>
+        </div>
+        <!-- 3 -->
+      </div>
+
+
+      <div class="slide">
+        <!-- 4 -->
+
+
+        <div class="col-12 mob-col-12 flex-container elementsAlignedCenter">
+          <div class="col-4 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <h2 class="mag fCormorant centeredText"><a href="$url('Search-Show','cgid','17')$">THE SCARF HEM<br>
+              FIT AND FLARE</a>
+              </h2>
+
+
+              <div class="spacer20px">
+                &nbsp;
+              </div>
+
+
+              <h4 class="mag fCormorant centeredText">After whittling your waist, this style flares out as usual but Rosetta Getty finished hers with an artfully staggered hem and highligting stripes. Give it a twirl.</h4>
+
+
+              <h5 class="mag fPoppins paddedTop centeredText"><a href="$url('Search-Show','cgid','17')$"><strong>SHOP NOW &gt;</strong></a>
+              </h5>
+            </div>
+          </div>
+
+
+          <div class="col-4 mob-col-12">
+            <a href="$url('Product-Show','pid','ROS00216040082')$"><img alt="" class="col-12" src="images/magazine/march17/SkirtsSpotlight_Feature_Image4.jpg?$staticlink$"></a>
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Search-Show','cgid','ROS002')$">ROSETTA GETTY</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','ROS00216040082')$">White Striped Scarf Hem Skirt</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Product-Show','pid','ROS00216040082')$">SHOP NOW &gt;</a>
+            </h5>
+          </div>
+
+
+          <div class="col-4 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <div class="spacer30px">
+                &nbsp;
+              </div>
+
+
+              <div class="template-product-carousel col-7 centered mob-col-12">
+                <div class="col-12 mob-col-12 owl-carousel owl-carousel-1">
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','ROS00216040082')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwcb931128/ROS00216040082_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','ROS002')$">ROSETTA GETTY</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','ROS00216040082')$">White Striped Scarf Hem Skirt</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','ROS00216040082')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','ROS00216040079')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwd20de010/ROS00216040079_1.jpg?sw=1000&sh=1300&sm=fit"></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','ROS002')$">ROSETTA GETTY</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','ROS00216040079')$">Black Long Sleeved Crop Top</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','ROS00216040079')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','CHA0071502234701')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw495e1759/CHA0071502234701_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','CHA007')$">CHARLOTTE CHESNAIS</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','CHA0071502234701')$">Silver Three Lovers Ring</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','CHA0071502234701')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','SIM0011601067001')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwc35c8895/SIM0011601067001_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','SIM001')$">SIMON MILLER</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','SIM0011601067001')$">Black Calf Leather Bucket Bag</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','SIM0011601067001')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- 4 -->
+      </div>
+
+
+      <div class="slide">
+        <!-- 6 -->
+
+
+        <div class="col-12 mob-col-12 flex-container elementsAlignedCenter">
+          <div class="col-4 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <div class="spacer30px">
+                &nbsp;
+              </div>
+
+
+              <div class="template-product-carousel col-7 centered mob-col-12">
+                <div class="col-12 mob-col-12 owl-carousel owl-carousel-1">
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','NEE00116040528')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw9f708af3/NEE00116040528_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','NEE001')$">NEEDLE & THREAD</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','NEE00116040528')$">Petal Pink Prairie Rose Maxi Skirt</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','NEE00116040528')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','TAB00116040030')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw421f0f00/TAB00116040030_1.jpg?sw=1000&sh=1300&sm=fit"></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','TAB001')$">TABITHA SIMMONS</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','TAB00116040030')$">White Perforated Leather Leticia Sandals</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','TAB00116040030')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','MAC00116040359')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dw3137c0fb/MAC00116040359_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','MAC001')$">MACGRAW</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','MAC00116040359')$">White Lace Bell Sleeve Top</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','MAC00116040359')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+
+
+                  <div class="product-tile smaller">
+                    <a href="$url('Product-Show','pid','MAH00116020693')$"><img alt="Image Description" src="http://demandware.edgesuite.net/sits_pod37/dw/image/v2/AAZX_PRD/on/demandware.static/-/Sites-Avenue32-master-catalog/default/dwbd997b7c/MAH00116020693_1.jpg?sw=1000&sh=1300&sm=fit" title=""></a>
+
+                    <h5 class="mag fKarla bold paddedTop"><a href="$url('Search-Show','cgid','MAH001')$">MAHA LOZI</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla centeredText bold"><a href="$url('Product-Show','pid','MAH00116020693')$">Rose Gold No More Drama Earrings</a>
+                    </h5>
+
+
+                    <h5 class="mag fKarla paddedTop centeredText"><a href="$url('Product-Show','pid','MAH00116020693')$"><strong>SHOP NOW &gt;</strong></a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-4 mob-col-12">
+            <a href="$url('Product-Show','pid','NEE00116040528')$"><img alt="" class="col-12" src="images/magazine/march17/SkirtsSpotlight_Feature_Image6.jpg?$staticlink$"></a>
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Search-Show','cgid','NEE001')$">NEEDLE & THREAD</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText"><a href="$url('Product-Show','pid','NEE00116040528')$">Petal Pink Prairie Rose Maxi Skirt</a>
+            </h5>
+
+
+            <h5 class="mag fKarla bold centeredText paddedTop"><a href="$url('Product-Show','pid','NEE00116040528')$">SHOP NOW &gt;</a>
+            </h5>
+          </div>
+
+
+          <div class="col-4 mob-col-12">
+            <div class="col-9 mob-col-12 centered">
+              <h2 class="mag fCormorant centeredText"><a href="$url('Search-Show','cgid','17')$">THE<br>
+              PLEATED MAXI</a>
+              </h2>
+
+
+              <div class="spacer20px">
+                &nbsp;
+              </div>
+
+
+              <h4 class="mag fCormorant centeredText">Pleating the longest length of all controls the volume and dresses it up but Needle & Thread’s floral print on top takes it to a<br>
+              ethereal new level.</h4>
+
+
+              <h5 class="mag fPoppins paddedTop centeredText"><a href="$url('Search-Show','cgid','17')$"><strong>SHOP NOW &gt;</strong></a>
+              </h5>
+            </div>
+          </div>
+        </div>
+        <!-- 6 -->
+      </div>
+    </div>
+
+
+  </div>
+</main>

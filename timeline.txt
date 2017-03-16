@@ -2486,3 +2486,179 @@ alternative partywear
 _________________
 
 
+
+_________________
+
+_________________
+
+
+09 03 17
+
+main: Shirts Deconsturcted Feature 
+
+features:
+
+Instagram feature (hide) 
+Shirts deconstructed feature 
+david Hockney feature 
+Spotlight skirts feature 
+Fabric Focus Cotton feature 
+
+
+LANDING:
+main:	Shirts Deconstructed
+
+side:   Fabric Focus 
+		Spotlight Skirt 
+		David Hockney 
+		
+
+row 1 :
+
+	Paris fashion week
+	details development (hide)
+	Mules
+	5 mins with Y Project
+	LBD
+
+row 2: 
+
+
+	Milan FW
+	tickled pink
+	dress your neck
+	checks
+
+	
+
+		
+ARCHIVE:
+
+london FW
+jewellery 2017
+roberta fashion week
+streetstyle
+
+
+NY fashion week
+bootcut
+jumpsuits 2017
+minibags
+
+isabel marant uk
+downunder 
+spring sneakers
+beltup 
+
+coldweather accessories
+rochas
+Dresses 2017
+Sea ny 2017
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+_________________
+
+
+
+_________________
+
+_________________
+
+
+16 03 17
+
+Main: Ready Set Stripe  
+
+Features:
+
+Mother's day 
+Two of a kind  
+Outerwear's new order 
+Peak Performance (hidden) 
+Ready Set Stripe 
+
+
+MAGAZINE LANDING:
+
+main image :	Ready Set Stripe  
+
+side images :   
+        
+        Mother's day 
+		Two of a kind  
+		Outerwear's new order 
+		Peak Performance (hidden) 
+		
+
+row 1 :
+       Instagram feature (hidden) 
+       Shirts Deconstructed
+       Fabric Focus 
+	   Spotlight Skirt 
+	   David Hockney 
+		
+	
+
+row 2: 
+
+	Paris fashion week
+	details development (hide)
+	Mules
+	5 mins with Y Project
+	LBD
+
+	
+	
+		
+ARCHIVE:
+
+Milan FW
+tickled pink
+dress your neck
+checks
+
+london FW
+jewellery 2017
+roberta fashion week
+streetstyle
+
+
+NY fashion week
+bootcut
+jumpsuits 2017
+minibags
+
+isabel marant uk
+downunder 
+spring sneakers
+beltup 
+
+coldweather accessories
+rochas
+Dresses 2017
+Sea ny 2017
+
+holiday heroes
+shirting
+roberta's closet
+liza marie fernandez
+
+prespring
+layering
+resort swimwear
+alternative partywear
+
+_________________
+
+
+
+

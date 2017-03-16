@@ -518,6 +518,17 @@ h1.title.shooting {
   float: none;
 }
 
+.tab-col-9.taBcentered,
+.tab-col-8.taBcentered,
+.tab-col-6.taBcentered,
+.tab-col-4.taBcentered,
+.tab-col-3.taBcentered,
+.tab-col-2.taBcentered {
+  display: block;
+  margin: 0 auto;
+  float: none;
+}
+
 .mob-col-9.moBcentered,
 .mob-col-8.moBcentered,
 .mob-col-6.moBcentered,
@@ -529,15 +540,47 @@ h1.title.shooting {
   float: none;
 }
 
-.tab-col-9.taBcentered,
-.tab-col-8.taBcentered,
-.tab-col-6.taBcentered,
-.tab-col-4.taBcentered,
-.tab-col-3.taBcentered,
-.tab-col-2.taBcentered {
-  display: block;
-  margin: 0 auto;
-  float: none;
+
+@media only screen and (max-width: 768px) {
+  .tab-col-20 {
+    width: 20%;
+    float: left;
+  }
+  .tab-col-3 {
+    width: 25%;
+    float: left;
+  }
+  .tab-col-4 {
+    width: 33.333%;
+    float: left;
+  }
+  .tab-col-5 {
+    width: 40%;
+    float: left;
+  }
+  .tab-col-6 {
+    width: 50%;
+    float: left;
+  }
+  .tab-col-7 {
+    width: 60%;
+    float: left;
+  }
+  .tab-col-8 {
+    width: 66.666%;
+    float: left;
+  }
+  .tab-col-9 {
+    width: 75%;
+    float: left;
+  }
+  .tab-col-10 {
+    width: 80%;
+    float: left;
+  }
+  .tab-col-12 {
+    width: 100%;
+  }
 }
 
 @media only screen and (max-width: 480px) {
@@ -582,47 +625,6 @@ h1.title.shooting {
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .tab-col-20 {
-    width: 20%;
-    float: left;
-  }
-  .tab-col-3 {
-    width: 25%;
-    float: left;
-  }
-  .tab-col-4 {
-    width: 33.333%;
-    float: left;
-  }
-  .tab-col-5 {
-    width: 40%;
-    float: left;
-  }
-  .tab-col-6 {
-    width: 50%;
-    float: left;
-  }
-  .tab-col-7 {
-    width: 60%;
-    float: left;
-  }
-  .tab-col-8 {
-    width: 66.666%;
-    float: left;
-  }
-  .tab-col-9 {
-    width: 75%;
-    float: left;
-  }
-  .tab-col-10 {
-    width: 80%;
-    float: left;
-  }
-  .tab-col-12 {
-    width: 100%;
-  }
-}
 
 
 /*general spacing*/
